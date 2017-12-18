@@ -1,0 +1,560 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "workHistoryCell"
+provides-nominal:
+- "C12HouseKeeping15workHistoryCell"
+provides-member:
+- ["C12HouseKeeping15workHistoryCell", ""]
+provides-dynamic-lookup:
+- "priority"
+- "HDescription"
+- "HDate"
+- "HStasus"
+- "awakeFromNib"
+- "setSelected"
+- "taskId"
+- "comments"
+- "HLocation"
+- "assignedby"
+- "icon"
+- "checklists"
+depends-top-level:
+- "UITableViewCell"
+- "UILabel"
+- "Bool"
+- "workHistoryCell"
+depends-member:
+- ["Ps9AnyObject", "HDate"]
+- ["Ps9AnyObject", "HDescription"]
+- ["Ps9AnyObject", "HLocation"]
+- ["Ps9AnyObject", "HStasus"]
+- ["Ps9AnyObject", "assignedby"]
+- ["Ps9AnyObject", "awakeFromNib"]
+- ["Ps9AnyObject", "checklists"]
+- ["Ps9AnyObject", "comments"]
+- ["Ps9AnyObject", "icon"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "priority"]
+- ["Ps9AnyObject", "setSelected"]
+- ["Ps9AnyObject", "taskId"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- ["PSo15CALayerDelegate", "HDate"]
+- ["PSo15CALayerDelegate", "HDescription"]
+- ["PSo15CALayerDelegate", "HLocation"]
+- ["PSo15CALayerDelegate", "HStasus"]
+- ["PSo15CALayerDelegate", "assignedby"]
+- ["PSo15CALayerDelegate", "awakeFromNib"]
+- ["PSo15CALayerDelegate", "checklists"]
+- ["PSo15CALayerDelegate", "comments"]
+- ["PSo15CALayerDelegate", "icon"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "priority"]
+- ["PSo15CALayerDelegate", "setSelected"]
+- ["PSo15CALayerDelegate", "taskId"]
+- ["PSo15CALayerDelegate", ""]
+- ["Ps7CVarArg", "HDate"]
+- ["Ps7CVarArg", "HDescription"]
+- ["Ps7CVarArg", "HLocation"]
+- ["Ps7CVarArg", "HStasus"]
+- ["Ps7CVarArg", "assignedby"]
+- ["Ps7CVarArg", "awakeFromNib"]
+- ["Ps7CVarArg", "checklists"]
+- ["Ps7CVarArg", "comments"]
+- ["Ps7CVarArg", "icon"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "priority"]
+- ["Ps7CVarArg", "setSelected"]
+- ["Ps7CVarArg", "taskId"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "HDate"]
+- ["Ps28CustomDebugStringConvertible", "HDescription"]
+- ["Ps28CustomDebugStringConvertible", "HLocation"]
+- ["Ps28CustomDebugStringConvertible", "HStasus"]
+- ["Ps28CustomDebugStringConvertible", "assignedby"]
+- ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- ["Ps28CustomDebugStringConvertible", "checklists"]
+- ["Ps28CustomDebugStringConvertible", "comments"]
+- ["Ps28CustomDebugStringConvertible", "icon"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "priority"]
+- ["Ps28CustomDebugStringConvertible", "setSelected"]
+- ["Ps28CustomDebugStringConvertible", "taskId"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "HDate"]
+- ["Ps23CustomStringConvertible", "HDescription"]
+- ["Ps23CustomStringConvertible", "HLocation"]
+- ["Ps23CustomStringConvertible", "HStasus"]
+- ["Ps23CustomStringConvertible", "assignedby"]
+- ["Ps23CustomStringConvertible", "awakeFromNib"]
+- ["Ps23CustomStringConvertible", "checklists"]
+- ["Ps23CustomStringConvertible", "comments"]
+- ["Ps23CustomStringConvertible", "icon"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "priority"]
+- ["Ps23CustomStringConvertible", "setSelected"]
+- ["Ps23CustomStringConvertible", "taskId"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "HDate"]
+- ["Ps9Equatable", "HDescription"]
+- ["Ps9Equatable", "HLocation"]
+- ["Ps9Equatable", "HStasus"]
+- ["Ps9Equatable", "assignedby"]
+- ["Ps9Equatable", "awakeFromNib"]
+- ["Ps9Equatable", "checklists"]
+- ["Ps9Equatable", "comments"]
+- ["Ps9Equatable", "icon"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "priority"]
+- ["Ps9Equatable", "setSelected"]
+- ["Ps9Equatable", "taskId"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "HDate"]
+- ["Ps8Hashable", "HDescription"]
+- ["Ps8Hashable", "HLocation"]
+- ["Ps8Hashable", "HStasus"]
+- ["Ps8Hashable", "assignedby"]
+- ["Ps8Hashable", "awakeFromNib"]
+- ["Ps8Hashable", "checklists"]
+- ["Ps8Hashable", "comments"]
+- ["Ps8Hashable", "icon"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "priority"]
+- ["Ps8Hashable", "setSelected"]
+- ["Ps8Hashable", "taskId"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "HDate"]
+- ["PSo8NSCoding", "HDescription"]
+- ["PSo8NSCoding", "HLocation"]
+- ["PSo8NSCoding", "HStasus"]
+- ["PSo8NSCoding", "assignedby"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "checklists"]
+- ["PSo8NSCoding", "comments"]
+- ["PSo8NSCoding", "icon"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "priority"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", "taskId"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "HDate"]
+- ["CSo8NSObject", "HDescription"]
+- ["CSo8NSObject", "HLocation"]
+- ["CSo8NSObject", "HStasus"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "assignedby"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "checklists"]
+- ["CSo8NSObject", "comments"]
+- ["CSo8NSObject", "icon"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "priority"]
+- ["CSo8NSObject", "setSelected"]
+- ["CSo8NSObject", "taskId"]
+- ["PSo16NSObjectProtocol", "HDate"]
+- ["PSo16NSObjectProtocol", "HDescription"]
+- ["PSo16NSObjectProtocol", "HLocation"]
+- ["PSo16NSObjectProtocol", "HStasus"]
+- ["PSo16NSObjectProtocol", "assignedby"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "checklists"]
+- ["PSo16NSObjectProtocol", "comments"]
+- ["PSo16NSObjectProtocol", "icon"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "priority"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", "taskId"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["PSo29UIAccessibilityIdentification", "HDate"]
+- ["PSo29UIAccessibilityIdentification", "HDescription"]
+- ["PSo29UIAccessibilityIdentification", "HLocation"]
+- ["PSo29UIAccessibilityIdentification", "HStasus"]
+- ["PSo29UIAccessibilityIdentification", "assignedby"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "checklists"]
+- ["PSo29UIAccessibilityIdentification", "comments"]
+- ["PSo29UIAccessibilityIdentification", "icon"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "priority"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", "taskId"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "HDate"]
+- ["PSo12UIAppearance", "HDescription"]
+- ["PSo12UIAppearance", "HLocation"]
+- ["PSo12UIAppearance", "HStasus"]
+- ["PSo12UIAppearance", "assignedby"]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "checklists"]
+- ["PSo12UIAppearance", "comments"]
+- ["PSo12UIAppearance", "icon"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "priority"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", "taskId"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "HDate"]
+- ["PSo21UIAppearanceContainer", "HDescription"]
+- ["PSo21UIAppearanceContainer", "HLocation"]
+- ["PSo21UIAppearanceContainer", "HStasus"]
+- ["PSo21UIAppearanceContainer", "assignedby"]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "checklists"]
+- ["PSo21UIAppearanceContainer", "comments"]
+- ["PSo21UIAppearanceContainer", "icon"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "priority"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", "taskId"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "HDate"]
+- ["PSo17UICoordinateSpace", "HDescription"]
+- ["PSo17UICoordinateSpace", "HLocation"]
+- ["PSo17UICoordinateSpace", "HStasus"]
+- ["PSo17UICoordinateSpace", "assignedby"]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "checklists"]
+- ["PSo17UICoordinateSpace", "comments"]
+- ["PSo17UICoordinateSpace", "icon"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "priority"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", "taskId"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "HDate"]
+- ["PSo13UIDynamicItem", "HDescription"]
+- ["PSo13UIDynamicItem", "HLocation"]
+- ["PSo13UIDynamicItem", "HStasus"]
+- ["PSo13UIDynamicItem", "assignedby"]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "checklists"]
+- ["PSo13UIDynamicItem", "comments"]
+- ["PSo13UIDynamicItem", "icon"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "priority"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", "taskId"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "HDate"]
+- ["PSo18UIFocusEnvironment", "HDescription"]
+- ["PSo18UIFocusEnvironment", "HLocation"]
+- ["PSo18UIFocusEnvironment", "HStasus"]
+- ["PSo18UIFocusEnvironment", "assignedby"]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "checklists"]
+- ["PSo18UIFocusEnvironment", "comments"]
+- ["PSo18UIFocusEnvironment", "icon"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "priority"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", "taskId"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo11UIFocusItem", "HDate"]
+- ["PSo11UIFocusItem", "HDescription"]
+- ["PSo11UIFocusItem", "HLocation"]
+- ["PSo11UIFocusItem", "HStasus"]
+- ["PSo11UIFocusItem", "assignedby"]
+- ["PSo11UIFocusItem", "awakeFromNib"]
+- ["PSo11UIFocusItem", "checklists"]
+- ["PSo11UIFocusItem", "comments"]
+- ["PSo11UIFocusItem", "icon"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "priority"]
+- ["PSo11UIFocusItem", "setSelected"]
+- ["PSo11UIFocusItem", "taskId"]
+- ["PSo11UIFocusItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "HDate"]
+- ["PSo27UIGestureRecognizerDelegate", "HDescription"]
+- ["PSo27UIGestureRecognizerDelegate", "HLocation"]
+- ["PSo27UIGestureRecognizerDelegate", "HStasus"]
+- ["PSo27UIGestureRecognizerDelegate", "assignedby"]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "checklists"]
+- ["PSo27UIGestureRecognizerDelegate", "comments"]
+- ["PSo27UIGestureRecognizerDelegate", "icon"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "priority"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", "taskId"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "HDate"]
+- ["CSo11UIResponder", "HDescription"]
+- ["CSo11UIResponder", "HLocation"]
+- ["CSo11UIResponder", "HStasus"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "assignedby"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "checklists"]
+- ["CSo11UIResponder", "comments"]
+- ["CSo11UIResponder", "icon"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "priority"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo11UIResponder", "taskId"]
+- ["PSo30UIResponderStandardEditActions", "HDate"]
+- ["PSo30UIResponderStandardEditActions", "HDescription"]
+- ["PSo30UIResponderStandardEditActions", "HLocation"]
+- ["PSo30UIResponderStandardEditActions", "HStasus"]
+- ["PSo30UIResponderStandardEditActions", "assignedby"]
+- ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- ["PSo30UIResponderStandardEditActions", "checklists"]
+- ["PSo30UIResponderStandardEditActions", "comments"]
+- ["PSo30UIResponderStandardEditActions", "icon"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "priority"]
+- ["PSo30UIResponderStandardEditActions", "setSelected"]
+- ["PSo30UIResponderStandardEditActions", "taskId"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "HDate"]
+- ["CSo15UITableViewCell", "HDescription"]
+- ["CSo15UITableViewCell", "HLocation"]
+- ["CSo15UITableViewCell", "HStasus"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "assignedby"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "checklists"]
+- ["CSo15UITableViewCell", "comments"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "icon"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "priority"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "taskId"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- ["PSo18UITraitEnvironment", "HDate"]
+- ["PSo18UITraitEnvironment", "HDescription"]
+- ["PSo18UITraitEnvironment", "HLocation"]
+- ["PSo18UITraitEnvironment", "HStasus"]
+- ["PSo18UITraitEnvironment", "assignedby"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "checklists"]
+- ["PSo18UITraitEnvironment", "comments"]
+- ["PSo18UITraitEnvironment", "icon"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "priority"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", "taskId"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "HDate"]
+- ["CSo6UIView", "HDescription"]
+- ["CSo6UIView", "HLocation"]
+- ["CSo6UIView", "HStasus"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "assignedby"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "checklists"]
+- ["CSo6UIView", "comments"]
+- ["CSo6UIView", "icon"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "priority"]
+- ["CSo6UIView", "setSelected"]
+- ["CSo6UIView", "taskId"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "HDate"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "HDescription"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "HLocation"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "HStasus"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "assignedby"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "checklists"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "comments"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "icon"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "priority"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "setSelected"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "taskId"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- ["Ps9_Hashable", "HDate"]
+- ["Ps9_Hashable", "HDescription"]
+- ["Ps9_Hashable", "HLocation"]
+- ["Ps9_Hashable", "HStasus"]
+- ["Ps9_Hashable", "assignedby"]
+- ["Ps9_Hashable", "awakeFromNib"]
+- ["Ps9_Hashable", "checklists"]
+- ["Ps9_Hashable", "comments"]
+- ["Ps9_Hashable", "icon"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "priority"]
+- ["Ps9_Hashable", "setSelected"]
+- ["Ps9_Hashable", "taskId"]
+- ["Ps9_Hashable", ""]
+- ["C12HouseKeeping15workHistoryCell", "Bool"]
+- ["C12HouseKeeping15workHistoryCell", "HDate"]
+- ["C12HouseKeeping15workHistoryCell", "HDescription"]
+- ["C12HouseKeeping15workHistoryCell", "HLocation"]
+- ["C12HouseKeeping15workHistoryCell", "HStasus"]
+- ["C12HouseKeeping15workHistoryCell", "UILabel"]
+- ["C12HouseKeeping15workHistoryCell", "assignedby"]
+- ["C12HouseKeeping15workHistoryCell", "awakeFromNib"]
+- ["C12HouseKeeping15workHistoryCell", "checklists"]
+- ["C12HouseKeeping15workHistoryCell", "comments"]
+- ["C12HouseKeeping15workHistoryCell", "deinit"]
+- ["C12HouseKeeping15workHistoryCell", "icon"]
+- ["C12HouseKeeping15workHistoryCell", "init"]
+- ["C12HouseKeeping15workHistoryCell", "priority"]
+- ["C12HouseKeeping15workHistoryCell", "setSelected"]
+- ["C12HouseKeeping15workHistoryCell", "taskId"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+- "C12HouseKeeping15workHistoryCell"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/Fusuma.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/SwiftSpinner.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/LIHAlert.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/SWActionSheet.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetMultipleStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetLocalePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/DistancePickerView.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDistancePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDatePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPickerDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/AbstractActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker-3.0-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+interface-hash: "d1a12bf57972bac66416a846af48d149"

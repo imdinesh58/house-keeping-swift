@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "519bff944f065286399bece38d55216b"
+build_time: [566024929, 524733000]
+inputs:
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/AFError.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Alamofire.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/MultipartFormData.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Notifications.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/ParameterEncoding.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Request.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Response.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/ResponseSerialization.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Result.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/ServerTrustPolicy.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/SessionDelegate.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/SessionManager.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/TaskDelegate.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Timeline.swift": [565940653, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Alamofire/Source/Validation.swift": [565940653, 0]

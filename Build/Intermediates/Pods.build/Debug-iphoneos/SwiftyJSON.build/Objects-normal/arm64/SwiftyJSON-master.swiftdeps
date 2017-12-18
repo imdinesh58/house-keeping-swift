@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "d566488131f76a4d22f62eb604bf01e0"
+build_time: [565939208, 88778000]
+inputs:
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [549615872, 0]

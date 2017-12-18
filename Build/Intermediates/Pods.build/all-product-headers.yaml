@@ -1,0 +1,633 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AbstractActionSheetPicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/AbstractActionSheetPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetCustomPicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetCustomPickerDelegate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetCustomPickerDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetDatePicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDatePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetDistancePicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetDistancePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetLocalePicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetLocalePicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetMultipleStringPicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetMultipleStringPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetPicker-3.0-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/ActionSheetPicker-3.0/ActionSheetPicker-3.0-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetPicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetPicker_3_0-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker_3_0-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ActionSheetStringPicker.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/ActionSheetStringPicker.h"
+        },
+        {
+          'type': 'file',
+          'name': "DistancePickerView.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/DistancePickerView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SWActionSheet.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/ActionSheetPicker-3.0/Pickers/SWActionSheet.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/ActionSheetPicker-3.0.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Fusuma/Fusuma.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Fusuma-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Fusuma/Fusuma.framework/Headers/Fusuma-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Fusuma-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/Fusuma/Fusuma-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Fusuma/Fusuma.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/Fusuma.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDebugSelectorValidation.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugSelectorValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDebugThreadValidation.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/DebugUtils/GTMDebugThreadValidation.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMLogger.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/Foundation/GTMLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMMethodCheck.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/DebugUtils/GTMMethodCheck.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSDictionary+URLArguments.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/Foundation/GTMNSDictionary+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSString+URLArguments.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/GoogleToolboxForMac/Foundation/GTMNSString+URLArguments.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LIHAlert-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LIHAlert-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/LIHAlert/LIHAlert-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/LIHAlert/LIHAlert.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/LIHAlert.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Pods_HouseKeeping.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-HouseKeeping-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/Pods-HouseKeeping/Pods-HouseKeeping-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_HouseKeeping-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Pods_HouseKeeping.framework/Headers/Pods_HouseKeeping-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Pods_HouseKeeping.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-HouseKeeping.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Any.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Api.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Duration.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Empty.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "FieldMask.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBArray.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBArray_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBArray_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBBootstrap.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBBootstrap.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBCodedInputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedInputStream_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBCodedInputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBCodedOutputStream.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBCodedOutputStream_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBCodedOutputStream_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDescriptor_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBDictionary.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBDictionary_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBDictionary_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionInternals.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBExtensionInternals.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBExtensionRegistry.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBExtensionRegistry.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBMessage.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBMessage_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBProtocolBuffers.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBProtocolBuffers_RuntimeSupport.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBRootObject.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRootObject_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBRuntimeTypes.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBRuntimeTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUnknownField.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownFieldSet_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUnknownFieldSet_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUnknownField_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUnknownField_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBUtilities_PackagePrivate.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWellKnownTypes.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBWellKnownTypes.h"
+        },
+        {
+          'type': 'file',
+          'name': "GPBWireFormat.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/GPBWireFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Headers/Protobuf-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Protobuf-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/Protobuf/Protobuf-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SourceContext.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Struct.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Timestamp.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Type.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h"
+        },
+        {
+          'type': 'file',
+          'name': "Wrappers.pbobjc.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/Protobuf/Protobuf.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/Protobuf.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/SwiftSpinner/SwiftSpinner-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftSpinner.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/SwiftSpinner/SwiftSpinner/SwiftSpinner.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftSpinner/SwiftSpinner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftSpinner.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "nanopb-Swift.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Headers/nanopb-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "nanopb-umbrella.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/Target Support Files/nanopb/nanopb-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/nanopb/pb.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_common.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/nanopb/pb_common.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_decode.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/nanopb/pb_decode.h"
+        },
+        {
+          'type': 'file',
+          'name': "pb_encode.h",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Pods/nanopb/pb_encode.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphonesimulator/nanopb/nanopb.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphonesimulator/nanopb.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

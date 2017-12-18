@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/apple-1/Downloads/HouseKeeping/Build/Intermediates/Pods.build/Debug-iphoneos/SwiftSpinner.build/unextended-module.modulemap',
+    }]
+  }]
+}

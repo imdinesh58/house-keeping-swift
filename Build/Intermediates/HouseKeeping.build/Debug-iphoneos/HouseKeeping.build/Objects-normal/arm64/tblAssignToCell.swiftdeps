@@ -1,0 +1,782 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "tblAssignToCell"
+provides-nominal:
+- "C12HouseKeeping15tblAssignToCell"
+provides-member:
+- ["C12HouseKeeping15tblAssignToCell", ""]
+provides-dynamic-lookup:
+- "dnd0"
+- "AssignedToRole"
+- "employeeID"
+- "employee"
+- "empName"
+- "completed0"
+- "pending1"
+- "pending0"
+- "awakeFromNib"
+- "setSelected"
+- "empLevel"
+- "onprogress0"
+- "statuslbl"
+- "UserMobile"
+- "completed1"
+- "dnd1"
+- "assign"
+- "EmployeeStatus"
+- "onprogress1"
+- "mobile"
+depends-top-level:
+- "UILabel"
+- "tblAssignToCell"
+- "UITableViewCell"
+- "UIImageView"
+- "Bool"
+depends-member:
+- ["Ps9AnyObject", "AssignedToRole"]
+- ["Ps9AnyObject", "EmployeeStatus"]
+- ["Ps9AnyObject", "UserMobile"]
+- ["Ps9AnyObject", "assign"]
+- ["Ps9AnyObject", "awakeFromNib"]
+- ["Ps9AnyObject", "completed0"]
+- ["Ps9AnyObject", "completed1"]
+- ["Ps9AnyObject", "dnd0"]
+- ["Ps9AnyObject", "dnd1"]
+- ["Ps9AnyObject", "empLevel"]
+- ["Ps9AnyObject", "empName"]
+- ["Ps9AnyObject", "employee"]
+- ["Ps9AnyObject", "employeeID"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "mobile"]
+- ["Ps9AnyObject", "onprogress0"]
+- ["Ps9AnyObject", "onprogress1"]
+- ["Ps9AnyObject", "pending0"]
+- ["Ps9AnyObject", "pending1"]
+- ["Ps9AnyObject", "setSelected"]
+- ["Ps9AnyObject", "statuslbl"]
+- ["Ps9AnyObject", ""]
+- ["Sb", "deinit"]
+- ["PSo15CALayerDelegate", "AssignedToRole"]
+- ["PSo15CALayerDelegate", "EmployeeStatus"]
+- ["PSo15CALayerDelegate", "UserMobile"]
+- ["PSo15CALayerDelegate", "assign"]
+- ["PSo15CALayerDelegate", "awakeFromNib"]
+- ["PSo15CALayerDelegate", "completed0"]
+- ["PSo15CALayerDelegate", "completed1"]
+- ["PSo15CALayerDelegate", "dnd0"]
+- ["PSo15CALayerDelegate", "dnd1"]
+- ["PSo15CALayerDelegate", "empLevel"]
+- ["PSo15CALayerDelegate", "empName"]
+- ["PSo15CALayerDelegate", "employee"]
+- ["PSo15CALayerDelegate", "employeeID"]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "mobile"]
+- ["PSo15CALayerDelegate", "onprogress0"]
+- ["PSo15CALayerDelegate", "onprogress1"]
+- ["PSo15CALayerDelegate", "pending0"]
+- ["PSo15CALayerDelegate", "pending1"]
+- ["PSo15CALayerDelegate", "setSelected"]
+- ["PSo15CALayerDelegate", "statuslbl"]
+- ["PSo15CALayerDelegate", ""]
+- ["Ps7CVarArg", "AssignedToRole"]
+- ["Ps7CVarArg", "EmployeeStatus"]
+- ["Ps7CVarArg", "UserMobile"]
+- ["Ps7CVarArg", "assign"]
+- ["Ps7CVarArg", "awakeFromNib"]
+- ["Ps7CVarArg", "completed0"]
+- ["Ps7CVarArg", "completed1"]
+- ["Ps7CVarArg", "dnd0"]
+- ["Ps7CVarArg", "dnd1"]
+- ["Ps7CVarArg", "empLevel"]
+- ["Ps7CVarArg", "empName"]
+- ["Ps7CVarArg", "employee"]
+- ["Ps7CVarArg", "employeeID"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "mobile"]
+- ["Ps7CVarArg", "onprogress0"]
+- ["Ps7CVarArg", "onprogress1"]
+- ["Ps7CVarArg", "pending0"]
+- ["Ps7CVarArg", "pending1"]
+- ["Ps7CVarArg", "setSelected"]
+- ["Ps7CVarArg", "statuslbl"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "AssignedToRole"]
+- ["Ps28CustomDebugStringConvertible", "EmployeeStatus"]
+- ["Ps28CustomDebugStringConvertible", "UserMobile"]
+- ["Ps28CustomDebugStringConvertible", "assign"]
+- ["Ps28CustomDebugStringConvertible", "awakeFromNib"]
+- ["Ps28CustomDebugStringConvertible", "completed0"]
+- ["Ps28CustomDebugStringConvertible", "completed1"]
+- ["Ps28CustomDebugStringConvertible", "dnd0"]
+- ["Ps28CustomDebugStringConvertible", "dnd1"]
+- ["Ps28CustomDebugStringConvertible", "empLevel"]
+- ["Ps28CustomDebugStringConvertible", "empName"]
+- ["Ps28CustomDebugStringConvertible", "employee"]
+- ["Ps28CustomDebugStringConvertible", "employeeID"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "mobile"]
+- ["Ps28CustomDebugStringConvertible", "onprogress0"]
+- ["Ps28CustomDebugStringConvertible", "onprogress1"]
+- ["Ps28CustomDebugStringConvertible", "pending0"]
+- ["Ps28CustomDebugStringConvertible", "pending1"]
+- ["Ps28CustomDebugStringConvertible", "setSelected"]
+- ["Ps28CustomDebugStringConvertible", "statuslbl"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "AssignedToRole"]
+- ["Ps23CustomStringConvertible", "EmployeeStatus"]
+- ["Ps23CustomStringConvertible", "UserMobile"]
+- ["Ps23CustomStringConvertible", "assign"]
+- ["Ps23CustomStringConvertible", "awakeFromNib"]
+- ["Ps23CustomStringConvertible", "completed0"]
+- ["Ps23CustomStringConvertible", "completed1"]
+- ["Ps23CustomStringConvertible", "dnd0"]
+- ["Ps23CustomStringConvertible", "dnd1"]
+- ["Ps23CustomStringConvertible", "empLevel"]
+- ["Ps23CustomStringConvertible", "empName"]
+- ["Ps23CustomStringConvertible", "employee"]
+- ["Ps23CustomStringConvertible", "employeeID"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "mobile"]
+- ["Ps23CustomStringConvertible", "onprogress0"]
+- ["Ps23CustomStringConvertible", "onprogress1"]
+- ["Ps23CustomStringConvertible", "pending0"]
+- ["Ps23CustomStringConvertible", "pending1"]
+- ["Ps23CustomStringConvertible", "setSelected"]
+- ["Ps23CustomStringConvertible", "statuslbl"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "AssignedToRole"]
+- ["Ps9Equatable", "EmployeeStatus"]
+- ["Ps9Equatable", "UserMobile"]
+- ["Ps9Equatable", "assign"]
+- ["Ps9Equatable", "awakeFromNib"]
+- ["Ps9Equatable", "completed0"]
+- ["Ps9Equatable", "completed1"]
+- ["Ps9Equatable", "dnd0"]
+- ["Ps9Equatable", "dnd1"]
+- ["Ps9Equatable", "empLevel"]
+- ["Ps9Equatable", "empName"]
+- ["Ps9Equatable", "employee"]
+- ["Ps9Equatable", "employeeID"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "mobile"]
+- ["Ps9Equatable", "onprogress0"]
+- ["Ps9Equatable", "onprogress1"]
+- ["Ps9Equatable", "pending0"]
+- ["Ps9Equatable", "pending1"]
+- ["Ps9Equatable", "setSelected"]
+- ["Ps9Equatable", "statuslbl"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "AssignedToRole"]
+- ["Ps8Hashable", "EmployeeStatus"]
+- ["Ps8Hashable", "UserMobile"]
+- ["Ps8Hashable", "assign"]
+- ["Ps8Hashable", "awakeFromNib"]
+- ["Ps8Hashable", "completed0"]
+- ["Ps8Hashable", "completed1"]
+- ["Ps8Hashable", "dnd0"]
+- ["Ps8Hashable", "dnd1"]
+- ["Ps8Hashable", "empLevel"]
+- ["Ps8Hashable", "empName"]
+- ["Ps8Hashable", "employee"]
+- ["Ps8Hashable", "employeeID"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "mobile"]
+- ["Ps8Hashable", "onprogress0"]
+- ["Ps8Hashable", "onprogress1"]
+- ["Ps8Hashable", "pending0"]
+- ["Ps8Hashable", "pending1"]
+- ["Ps8Hashable", "setSelected"]
+- ["Ps8Hashable", "statuslbl"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "AssignedToRole"]
+- ["PSo8NSCoding", "EmployeeStatus"]
+- ["PSo8NSCoding", "UserMobile"]
+- ["PSo8NSCoding", "assign"]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "completed0"]
+- ["PSo8NSCoding", "completed1"]
+- ["PSo8NSCoding", "dnd0"]
+- ["PSo8NSCoding", "dnd1"]
+- ["PSo8NSCoding", "empLevel"]
+- ["PSo8NSCoding", "empName"]
+- ["PSo8NSCoding", "employee"]
+- ["PSo8NSCoding", "employeeID"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "mobile"]
+- ["PSo8NSCoding", "onprogress0"]
+- ["PSo8NSCoding", "onprogress1"]
+- ["PSo8NSCoding", "pending0"]
+- ["PSo8NSCoding", "pending1"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", "statuslbl"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "AssignedToRole"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "EmployeeStatus"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UserMobile"]
+- ["CSo8NSObject", "assign"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "completed0"]
+- ["CSo8NSObject", "completed1"]
+- ["CSo8NSObject", "dnd0"]
+- ["CSo8NSObject", "dnd1"]
+- ["CSo8NSObject", "empLevel"]
+- ["CSo8NSObject", "empName"]
+- ["CSo8NSObject", "employee"]
+- ["CSo8NSObject", "employeeID"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "mobile"]
+- ["CSo8NSObject", "onprogress0"]
+- ["CSo8NSObject", "onprogress1"]
+- ["CSo8NSObject", "pending0"]
+- ["CSo8NSObject", "pending1"]
+- ["CSo8NSObject", "setSelected"]
+- ["CSo8NSObject", "statuslbl"]
+- ["PSo16NSObjectProtocol", "AssignedToRole"]
+- ["PSo16NSObjectProtocol", "EmployeeStatus"]
+- ["PSo16NSObjectProtocol", "UserMobile"]
+- ["PSo16NSObjectProtocol", "assign"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "completed0"]
+- ["PSo16NSObjectProtocol", "completed1"]
+- ["PSo16NSObjectProtocol", "dnd0"]
+- ["PSo16NSObjectProtocol", "dnd1"]
+- ["PSo16NSObjectProtocol", "empLevel"]
+- ["PSo16NSObjectProtocol", "empName"]
+- ["PSo16NSObjectProtocol", "employee"]
+- ["PSo16NSObjectProtocol", "employeeID"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "mobile"]
+- ["PSo16NSObjectProtocol", "onprogress0"]
+- ["PSo16NSObjectProtocol", "onprogress1"]
+- ["PSo16NSObjectProtocol", "pending0"]
+- ["PSo16NSObjectProtocol", "pending1"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", "statuslbl"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["PSo29UIAccessibilityIdentification", "AssignedToRole"]
+- ["PSo29UIAccessibilityIdentification", "EmployeeStatus"]
+- ["PSo29UIAccessibilityIdentification", "UserMobile"]
+- ["PSo29UIAccessibilityIdentification", "assign"]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "completed0"]
+- ["PSo29UIAccessibilityIdentification", "completed1"]
+- ["PSo29UIAccessibilityIdentification", "dnd0"]
+- ["PSo29UIAccessibilityIdentification", "dnd1"]
+- ["PSo29UIAccessibilityIdentification", "empLevel"]
+- ["PSo29UIAccessibilityIdentification", "empName"]
+- ["PSo29UIAccessibilityIdentification", "employee"]
+- ["PSo29UIAccessibilityIdentification", "employeeID"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "mobile"]
+- ["PSo29UIAccessibilityIdentification", "onprogress0"]
+- ["PSo29UIAccessibilityIdentification", "onprogress1"]
+- ["PSo29UIAccessibilityIdentification", "pending0"]
+- ["PSo29UIAccessibilityIdentification", "pending1"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", "statuslbl"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "AssignedToRole"]
+- ["PSo12UIAppearance", "EmployeeStatus"]
+- ["PSo12UIAppearance", "UserMobile"]
+- ["PSo12UIAppearance", "assign"]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "completed0"]
+- ["PSo12UIAppearance", "completed1"]
+- ["PSo12UIAppearance", "dnd0"]
+- ["PSo12UIAppearance", "dnd1"]
+- ["PSo12UIAppearance", "empLevel"]
+- ["PSo12UIAppearance", "empName"]
+- ["PSo12UIAppearance", "employee"]
+- ["PSo12UIAppearance", "employeeID"]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "mobile"]
+- ["PSo12UIAppearance", "onprogress0"]
+- ["PSo12UIAppearance", "onprogress1"]
+- ["PSo12UIAppearance", "pending0"]
+- ["PSo12UIAppearance", "pending1"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", "statuslbl"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "AssignedToRole"]
+- ["PSo21UIAppearanceContainer", "EmployeeStatus"]
+- ["PSo21UIAppearanceContainer", "UserMobile"]
+- ["PSo21UIAppearanceContainer", "assign"]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "completed0"]
+- ["PSo21UIAppearanceContainer", "completed1"]
+- ["PSo21UIAppearanceContainer", "dnd0"]
+- ["PSo21UIAppearanceContainer", "dnd1"]
+- ["PSo21UIAppearanceContainer", "empLevel"]
+- ["PSo21UIAppearanceContainer", "empName"]
+- ["PSo21UIAppearanceContainer", "employee"]
+- ["PSo21UIAppearanceContainer", "employeeID"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "mobile"]
+- ["PSo21UIAppearanceContainer", "onprogress0"]
+- ["PSo21UIAppearanceContainer", "onprogress1"]
+- ["PSo21UIAppearanceContainer", "pending0"]
+- ["PSo21UIAppearanceContainer", "pending1"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", "statuslbl"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "AssignedToRole"]
+- ["PSo17UICoordinateSpace", "EmployeeStatus"]
+- ["PSo17UICoordinateSpace", "UserMobile"]
+- ["PSo17UICoordinateSpace", "assign"]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "completed0"]
+- ["PSo17UICoordinateSpace", "completed1"]
+- ["PSo17UICoordinateSpace", "dnd0"]
+- ["PSo17UICoordinateSpace", "dnd1"]
+- ["PSo17UICoordinateSpace", "empLevel"]
+- ["PSo17UICoordinateSpace", "empName"]
+- ["PSo17UICoordinateSpace", "employee"]
+- ["PSo17UICoordinateSpace", "employeeID"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "mobile"]
+- ["PSo17UICoordinateSpace", "onprogress0"]
+- ["PSo17UICoordinateSpace", "onprogress1"]
+- ["PSo17UICoordinateSpace", "pending0"]
+- ["PSo17UICoordinateSpace", "pending1"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", "statuslbl"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "AssignedToRole"]
+- ["PSo13UIDynamicItem", "EmployeeStatus"]
+- ["PSo13UIDynamicItem", "UserMobile"]
+- ["PSo13UIDynamicItem", "assign"]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "completed0"]
+- ["PSo13UIDynamicItem", "completed1"]
+- ["PSo13UIDynamicItem", "dnd0"]
+- ["PSo13UIDynamicItem", "dnd1"]
+- ["PSo13UIDynamicItem", "empLevel"]
+- ["PSo13UIDynamicItem", "empName"]
+- ["PSo13UIDynamicItem", "employee"]
+- ["PSo13UIDynamicItem", "employeeID"]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "mobile"]
+- ["PSo13UIDynamicItem", "onprogress0"]
+- ["PSo13UIDynamicItem", "onprogress1"]
+- ["PSo13UIDynamicItem", "pending0"]
+- ["PSo13UIDynamicItem", "pending1"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", "statuslbl"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "AssignedToRole"]
+- ["PSo18UIFocusEnvironment", "EmployeeStatus"]
+- ["PSo18UIFocusEnvironment", "UserMobile"]
+- ["PSo18UIFocusEnvironment", "assign"]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "completed0"]
+- ["PSo18UIFocusEnvironment", "completed1"]
+- ["PSo18UIFocusEnvironment", "dnd0"]
+- ["PSo18UIFocusEnvironment", "dnd1"]
+- ["PSo18UIFocusEnvironment", "empLevel"]
+- ["PSo18UIFocusEnvironment", "empName"]
+- ["PSo18UIFocusEnvironment", "employee"]
+- ["PSo18UIFocusEnvironment", "employeeID"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "mobile"]
+- ["PSo18UIFocusEnvironment", "onprogress0"]
+- ["PSo18UIFocusEnvironment", "onprogress1"]
+- ["PSo18UIFocusEnvironment", "pending0"]
+- ["PSo18UIFocusEnvironment", "pending1"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", "statuslbl"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo11UIFocusItem", "AssignedToRole"]
+- ["PSo11UIFocusItem", "EmployeeStatus"]
+- ["PSo11UIFocusItem", "UserMobile"]
+- ["PSo11UIFocusItem", "assign"]
+- ["PSo11UIFocusItem", "awakeFromNib"]
+- ["PSo11UIFocusItem", "completed0"]
+- ["PSo11UIFocusItem", "completed1"]
+- ["PSo11UIFocusItem", "dnd0"]
+- ["PSo11UIFocusItem", "dnd1"]
+- ["PSo11UIFocusItem", "empLevel"]
+- ["PSo11UIFocusItem", "empName"]
+- ["PSo11UIFocusItem", "employee"]
+- ["PSo11UIFocusItem", "employeeID"]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "mobile"]
+- ["PSo11UIFocusItem", "onprogress0"]
+- ["PSo11UIFocusItem", "onprogress1"]
+- ["PSo11UIFocusItem", "pending0"]
+- ["PSo11UIFocusItem", "pending1"]
+- ["PSo11UIFocusItem", "setSelected"]
+- ["PSo11UIFocusItem", "statuslbl"]
+- ["PSo11UIFocusItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "AssignedToRole"]
+- ["PSo27UIGestureRecognizerDelegate", "EmployeeStatus"]
+- ["PSo27UIGestureRecognizerDelegate", "UserMobile"]
+- ["PSo27UIGestureRecognizerDelegate", "assign"]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "completed0"]
+- ["PSo27UIGestureRecognizerDelegate", "completed1"]
+- ["PSo27UIGestureRecognizerDelegate", "dnd0"]
+- ["PSo27UIGestureRecognizerDelegate", "dnd1"]
+- ["PSo27UIGestureRecognizerDelegate", "empLevel"]
+- ["PSo27UIGestureRecognizerDelegate", "empName"]
+- ["PSo27UIGestureRecognizerDelegate", "employee"]
+- ["PSo27UIGestureRecognizerDelegate", "employeeID"]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "mobile"]
+- ["PSo27UIGestureRecognizerDelegate", "onprogress0"]
+- ["PSo27UIGestureRecognizerDelegate", "onprogress1"]
+- ["PSo27UIGestureRecognizerDelegate", "pending0"]
+- ["PSo27UIGestureRecognizerDelegate", "pending1"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", "statuslbl"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "AssignedToRole"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "EmployeeStatus"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UserMobile"]
+- ["CSo11UIResponder", "assign"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "completed0"]
+- ["CSo11UIResponder", "completed1"]
+- ["CSo11UIResponder", "dnd0"]
+- ["CSo11UIResponder", "dnd1"]
+- ["CSo11UIResponder", "empLevel"]
+- ["CSo11UIResponder", "empName"]
+- ["CSo11UIResponder", "employee"]
+- ["CSo11UIResponder", "employeeID"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "mobile"]
+- ["CSo11UIResponder", "onprogress0"]
+- ["CSo11UIResponder", "onprogress1"]
+- ["CSo11UIResponder", "pending0"]
+- ["CSo11UIResponder", "pending1"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo11UIResponder", "statuslbl"]
+- ["PSo30UIResponderStandardEditActions", "AssignedToRole"]
+- ["PSo30UIResponderStandardEditActions", "EmployeeStatus"]
+- ["PSo30UIResponderStandardEditActions", "UserMobile"]
+- ["PSo30UIResponderStandardEditActions", "assign"]
+- ["PSo30UIResponderStandardEditActions", "awakeFromNib"]
+- ["PSo30UIResponderStandardEditActions", "completed0"]
+- ["PSo30UIResponderStandardEditActions", "completed1"]
+- ["PSo30UIResponderStandardEditActions", "dnd0"]
+- ["PSo30UIResponderStandardEditActions", "dnd1"]
+- ["PSo30UIResponderStandardEditActions", "empLevel"]
+- ["PSo30UIResponderStandardEditActions", "empName"]
+- ["PSo30UIResponderStandardEditActions", "employee"]
+- ["PSo30UIResponderStandardEditActions", "employeeID"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "mobile"]
+- ["PSo30UIResponderStandardEditActions", "onprogress0"]
+- ["PSo30UIResponderStandardEditActions", "onprogress1"]
+- ["PSo30UIResponderStandardEditActions", "pending0"]
+- ["PSo30UIResponderStandardEditActions", "pending1"]
+- ["PSo30UIResponderStandardEditActions", "setSelected"]
+- ["PSo30UIResponderStandardEditActions", "statuslbl"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "AssignedToRole"]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "EmployeeStatus"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "UserMobile"]
+- ["CSo15UITableViewCell", "assign"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "completed0"]
+- ["CSo15UITableViewCell", "completed1"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "dnd0"]
+- ["CSo15UITableViewCell", "dnd1"]
+- ["CSo15UITableViewCell", "empLevel"]
+- ["CSo15UITableViewCell", "empName"]
+- ["CSo15UITableViewCell", "employee"]
+- ["CSo15UITableViewCell", "employeeID"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "mobile"]
+- ["CSo15UITableViewCell", "onprogress0"]
+- ["CSo15UITableViewCell", "onprogress1"]
+- ["CSo15UITableViewCell", "pending0"]
+- ["CSo15UITableViewCell", "pending1"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", "statuslbl"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- ["PSo18UITraitEnvironment", "AssignedToRole"]
+- ["PSo18UITraitEnvironment", "EmployeeStatus"]
+- ["PSo18UITraitEnvironment", "UserMobile"]
+- ["PSo18UITraitEnvironment", "assign"]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "completed0"]
+- ["PSo18UITraitEnvironment", "completed1"]
+- ["PSo18UITraitEnvironment", "dnd0"]
+- ["PSo18UITraitEnvironment", "dnd1"]
+- ["PSo18UITraitEnvironment", "empLevel"]
+- ["PSo18UITraitEnvironment", "empName"]
+- ["PSo18UITraitEnvironment", "employee"]
+- ["PSo18UITraitEnvironment", "employeeID"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "mobile"]
+- ["PSo18UITraitEnvironment", "onprogress0"]
+- ["PSo18UITraitEnvironment", "onprogress1"]
+- ["PSo18UITraitEnvironment", "pending0"]
+- ["PSo18UITraitEnvironment", "pending1"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", "statuslbl"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "AssignedToRole"]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "EmployeeStatus"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "UserMobile"]
+- ["CSo6UIView", "assign"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "completed0"]
+- ["CSo6UIView", "completed1"]
+- ["CSo6UIView", "dnd0"]
+- ["CSo6UIView", "dnd1"]
+- ["CSo6UIView", "empLevel"]
+- ["CSo6UIView", "empName"]
+- ["CSo6UIView", "employee"]
+- ["CSo6UIView", "employeeID"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "mobile"]
+- ["CSo6UIView", "onprogress0"]
+- ["CSo6UIView", "onprogress1"]
+- ["CSo6UIView", "pending0"]
+- ["CSo6UIView", "pending1"]
+- ["CSo6UIView", "setSelected"]
+- ["CSo6UIView", "statuslbl"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "AssignedToRole"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "EmployeeStatus"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "UserMobile"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "assign"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "awakeFromNib"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "completed0"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "completed1"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dnd0"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "dnd1"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "empLevel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "empName"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "employee"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "employeeID"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "mobile"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "onprogress0"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "onprogress1"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "pending0"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "pending1"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "setSelected"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "statuslbl"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- ["Ps9_Hashable", "AssignedToRole"]
+- ["Ps9_Hashable", "EmployeeStatus"]
+- ["Ps9_Hashable", "UserMobile"]
+- ["Ps9_Hashable", "assign"]
+- ["Ps9_Hashable", "awakeFromNib"]
+- ["Ps9_Hashable", "completed0"]
+- ["Ps9_Hashable", "completed1"]
+- ["Ps9_Hashable", "dnd0"]
+- ["Ps9_Hashable", "dnd1"]
+- ["Ps9_Hashable", "empLevel"]
+- ["Ps9_Hashable", "empName"]
+- ["Ps9_Hashable", "employee"]
+- ["Ps9_Hashable", "employeeID"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "mobile"]
+- ["Ps9_Hashable", "onprogress0"]
+- ["Ps9_Hashable", "onprogress1"]
+- ["Ps9_Hashable", "pending0"]
+- ["Ps9_Hashable", "pending1"]
+- ["Ps9_Hashable", "setSelected"]
+- ["Ps9_Hashable", "statuslbl"]
+- ["Ps9_Hashable", ""]
+- ["C12HouseKeeping15tblAssignToCell", "AssignedToRole"]
+- ["C12HouseKeeping15tblAssignToCell", "Bool"]
+- ["C12HouseKeeping15tblAssignToCell", "EmployeeStatus"]
+- ["C12HouseKeeping15tblAssignToCell", "UIImageView"]
+- ["C12HouseKeeping15tblAssignToCell", "UILabel"]
+- ["C12HouseKeeping15tblAssignToCell", "UserMobile"]
+- ["C12HouseKeeping15tblAssignToCell", "assign"]
+- ["C12HouseKeeping15tblAssignToCell", "awakeFromNib"]
+- ["C12HouseKeeping15tblAssignToCell", "completed0"]
+- ["C12HouseKeeping15tblAssignToCell", "completed1"]
+- ["C12HouseKeeping15tblAssignToCell", "deinit"]
+- ["C12HouseKeeping15tblAssignToCell", "dnd0"]
+- ["C12HouseKeeping15tblAssignToCell", "dnd1"]
+- ["C12HouseKeeping15tblAssignToCell", "empLevel"]
+- ["C12HouseKeeping15tblAssignToCell", "empName"]
+- ["C12HouseKeeping15tblAssignToCell", "employee"]
+- ["C12HouseKeeping15tblAssignToCell", "employeeID"]
+- ["C12HouseKeeping15tblAssignToCell", "init"]
+- ["C12HouseKeeping15tblAssignToCell", "mobile"]
+- ["C12HouseKeeping15tblAssignToCell", "onprogress0"]
+- ["C12HouseKeeping15tblAssignToCell", "onprogress1"]
+- ["C12HouseKeeping15tblAssignToCell", "pending0"]
+- ["C12HouseKeeping15tblAssignToCell", "pending1"]
+- ["C12HouseKeeping15tblAssignToCell", "setSelected"]
+- ["C12HouseKeeping15tblAssignToCell", "statuslbl"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+- "C12HouseKeeping15tblAssignToCell"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm64.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm64.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/Fusuma.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/SwiftSpinner.swiftmodule/arm64.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/LIHAlert.swiftmodule/arm64.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/SWActionSheet.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetMultipleStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetLocalePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/DistancePickerView.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDistancePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDatePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPickerDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/AbstractActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker-3.0-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MapKit.swiftmodule"
+interface-hash: "fbc9a381e1778df0e303e8668a7fa1c1"

@@ -1,0 +1,481 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HKURL"
+- "HKImgUrl"
+- "getAssignedTasks"
+- "getWorkers"
+- "getEmployeeDetailsHousekeeping"
+- "getEmployeeDetailsCarParking"
+- "getEmployeeDetailsMaintenance"
+- "getEmployeeDetailsPlumber"
+- "getEmployeeDetailsCarpenter"
+- "getEmployeeDetailsElectrician"
+- "getEmployeeDetailsDriver"
+- "getEmployeeDetailsCleaner"
+- "getEmployeeDetailsWasher"
+- "getEmployeeDetailsArranger"
+- "getFloorDetails"
+- "getWorkTypeDetails"
+- "saveGalleryImage"
+- "saveGalleryImage2"
+provides-nominal:
+- "V12HouseKeeping16getAssignedTasks"
+- "V12HouseKeeping10getWorkers"
+- "V12HouseKeeping30getEmployeeDetailsHousekeeping"
+- "V12HouseKeeping28getEmployeeDetailsCarParking"
+- "V12HouseKeeping29getEmployeeDetailsMaintenance"
+- "V12HouseKeeping25getEmployeeDetailsPlumber"
+- "V12HouseKeeping27getEmployeeDetailsCarpenter"
+- "V12HouseKeeping29getEmployeeDetailsElectrician"
+- "V12HouseKeeping24getEmployeeDetailsDriver"
+- "V12HouseKeeping25getEmployeeDetailsCleaner"
+- "V12HouseKeeping24getEmployeeDetailsWasher"
+- "V12HouseKeeping26getEmployeeDetailsArranger"
+- "V12HouseKeeping15getFloorDetails"
+- "V12HouseKeeping18getWorkTypeDetails"
+- "V12HouseKeeping16saveGalleryImage"
+- "V12HouseKeeping17saveGalleryImage2"
+provides-member:
+- ["V12HouseKeeping16getAssignedTasks", ""]
+- ["V12HouseKeeping10getWorkers", ""]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", ""]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", ""]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", ""]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", ""]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", ""]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", ""]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", ""]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", ""]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", ""]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", ""]
+- ["V12HouseKeeping15getFloorDetails", ""]
+- ["V12HouseKeeping18getWorkTypeDetails", ""]
+- ["V12HouseKeeping16saveGalleryImage", ""]
+- ["V12HouseKeeping17saveGalleryImage2", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Int"
+- "getWorkers"
+- "getEmployeeDetailsDriver"
+- "getFloorDetails"
+- "String"
+- "getEmployeeDetailsCarParking"
+- "UIImage"
+- "getEmployeeDetailsCarpenter"
+- "getEmployeeDetailsWasher"
+- "getWorkTypeDetails"
+- "StringLiteralType"
+- "saveGalleryImage2"
+- "getEmployeeDetailsPlumber"
+- "getAssignedTasks"
+- "getEmployeeDetailsMaintenance"
+- "getEmployeeDetailsArranger"
+- "HKURL"
+- "getEmployeeDetailsHousekeeping"
+- "HKImgUrl"
+- "getEmployeeDetailsCleaner"
+- "saveGalleryImage"
+- "getEmployeeDetailsElectrician"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps7CVarArg", "init"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps9Equatable", "init"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "init"]
+- ["Si", "deinit"]
+- ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["CSo7UIImage", "deinit"]
+- ["P9Alamofire14URLConvertible", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "init"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- ["V12HouseKeeping16getAssignedTasks", "Int"]
+- ["V12HouseKeeping16getAssignedTasks", "String"]
+- ["V12HouseKeeping16getAssignedTasks", "assignedBY"]
+- ["V12HouseKeeping16getAssignedTasks", "assignedByName"]
+- ["V12HouseKeeping16getAssignedTasks", "assignedByRole"]
+- ["V12HouseKeeping16getAssignedTasks", "assignedTaskID"]
+- ["V12HouseKeeping16getAssignedTasks", "checkListIds"]
+- ["V12HouseKeeping16getAssignedTasks", "dateAssigned"]
+- ["V12HouseKeeping16getAssignedTasks", "deinit"]
+- ["V12HouseKeeping16getAssignedTasks", "description"]
+- ["V12HouseKeeping16getAssignedTasks", "duration"]
+- ["V12HouseKeeping16getAssignedTasks", "employeeId"]
+- ["V12HouseKeeping16getAssignedTasks", "employeeName"]
+- ["V12HouseKeeping16getAssignedTasks", "floorNumber"]
+- ["V12HouseKeeping16getAssignedTasks", "imageCount"]
+- ["V12HouseKeeping16getAssignedTasks", "init"]
+- ["V12HouseKeeping16getAssignedTasks", "isDistributsed"]
+- ["V12HouseKeeping16getAssignedTasks", "location"]
+- ["V12HouseKeeping16getAssignedTasks", "priorities"]
+- ["V12HouseKeeping16getAssignedTasks", "taskListId"]
+- ["V12HouseKeeping16getAssignedTasks", "taskStatusID"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "Address"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "Email"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "EmployeeID"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "FirstName"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "LastName"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "Phone"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "String"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "UserMobileID"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "completed"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "deinit"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "dnd"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "init"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "onprogress"]
+- ["V12HouseKeeping26getEmployeeDetailsArranger", "pending"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "Address"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "Email"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "EmployeeID"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "FirstName"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "LastName"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "Phone"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "String"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "UserMobileID"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "completed"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "deinit"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "dnd"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "init"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "onprogress"]
+- ["V12HouseKeeping28getEmployeeDetailsCarParking", "pending"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "Address"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "Email"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "EmployeeID"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "FirstName"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "LastName"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "Phone"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "String"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "UserMobileID"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "completed"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "deinit"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "dnd"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "init"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "onprogress"]
+- ["V12HouseKeeping27getEmployeeDetailsCarpenter", "pending"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "Address"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "Email"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "EmployeeID"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "FirstName"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "LastName"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "Phone"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "String"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "UserMobileID"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "completed"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "deinit"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "dnd"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "init"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "onprogress"]
+- ["V12HouseKeeping25getEmployeeDetailsCleaner", "pending"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "Address"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "Email"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "EmployeeID"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "FirstName"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "LastName"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "Phone"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "String"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "UserMobileID"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "completed"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "deinit"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "dnd"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "init"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "onprogress"]
+- ["V12HouseKeeping24getEmployeeDetailsDriver", "pending"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "Address"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "Email"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "EmployeeID"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "FirstName"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "LastName"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "Phone"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "String"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "UserMobileID"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "completed"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "deinit"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "dnd"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "init"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "onprogress"]
+- ["V12HouseKeeping29getEmployeeDetailsElectrician", "pending"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "Address"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "Email"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "EmployeeID"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "FirstName"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "LastName"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "Phone"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "String"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "UserMobileID"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "completed"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "deinit"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "dnd"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "init"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "onprogress"]
+- ["V12HouseKeeping30getEmployeeDetailsHousekeeping", "pending"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "Address"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "Email"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "EmployeeID"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "FirstName"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "LastName"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "Phone"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "String"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "UserMobileID"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "completed"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "deinit"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "dnd"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "init"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "onprogress"]
+- ["V12HouseKeeping29getEmployeeDetailsMaintenance", "pending"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "Address"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "Email"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "EmployeeID"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "FirstName"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "LastName"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "Phone"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "String"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "UserMobileID"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "completed"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "deinit"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "dnd"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "init"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "onprogress"]
+- ["V12HouseKeeping25getEmployeeDetailsPlumber", "pending"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "Address"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "Email"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "EmployeeID"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "FirstName"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "LastName"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "Phone"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "String"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "UserMobileID"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "completed"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "deinit"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "dnd"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "init"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "onprogress"]
+- ["V12HouseKeeping24getEmployeeDetailsWasher", "pending"]
+- ["V12HouseKeeping15getFloorDetails", "AreaDetail"]
+- ["V12HouseKeeping15getFloorDetails", "AreaDetailID"]
+- ["V12HouseKeeping15getFloorDetails", "AreaTypeID"]
+- ["V12HouseKeeping15getFloorDetails", "FloorID"]
+- ["V12HouseKeeping15getFloorDetails", "FloorName"]
+- ["V12HouseKeeping15getFloorDetails", "String"]
+- ["V12HouseKeeping15getFloorDetails", "deinit"]
+- ["V12HouseKeeping15getFloorDetails", "init"]
+- ["V12HouseKeeping18getWorkTypeDetails", "String"]
+- ["V12HouseKeeping18getWorkTypeDetails", "deinit"]
+- ["V12HouseKeeping18getWorkTypeDetails", "init"]
+- ["V12HouseKeeping18getWorkTypeDetails", "taskListId"]
+- ["V12HouseKeeping18getWorkTypeDetails", "taskListName"]
+- ["V12HouseKeeping10getWorkers", "String"]
+- ["V12HouseKeeping10getWorkers", "deinit"]
+- ["V12HouseKeeping10getWorkers", "employeeLevelID"]
+- ["V12HouseKeeping10getWorkers", "init"]
+- ["V12HouseKeeping10getWorkers", "levelName"]
+- ["V12HouseKeeping16saveGalleryImage", "UIImage"]
+- ["V12HouseKeeping16saveGalleryImage", "deinit"]
+- ["V12HouseKeeping16saveGalleryImage", "init"]
+- ["V12HouseKeeping16saveGalleryImage", "saveimages"]
+- ["V12HouseKeeping17saveGalleryImage2", "UIImage"]
+- ["V12HouseKeeping17saveGalleryImage2", "deinit"]
+- ["V12HouseKeeping17saveGalleryImage2", "init"]
+- ["V12HouseKeeping17saveGalleryImage2", "saveimages2"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "Si"
+- "P10SwiftyJSON17JSONSubscriptType"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "CSo7UIImage"
+- "P9Alamofire14URLConvertible"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+- "V12HouseKeeping16getAssignedTasks"
+- "V12HouseKeeping26getEmployeeDetailsArranger"
+- "V12HouseKeeping28getEmployeeDetailsCarParking"
+- "V12HouseKeeping27getEmployeeDetailsCarpenter"
+- "V12HouseKeeping25getEmployeeDetailsCleaner"
+- "V12HouseKeeping24getEmployeeDetailsDriver"
+- "V12HouseKeeping29getEmployeeDetailsElectrician"
+- "V12HouseKeeping30getEmployeeDetailsHousekeeping"
+- "V12HouseKeeping29getEmployeeDetailsMaintenance"
+- "V12HouseKeeping25getEmployeeDetailsPlumber"
+- "V12HouseKeeping24getEmployeeDetailsWasher"
+- "V12HouseKeeping15getFloorDetails"
+- "V12HouseKeeping18getWorkTypeDetails"
+- "V12HouseKeeping10getWorkers"
+- "V12HouseKeeping16saveGalleryImage"
+- "V12HouseKeeping17saveGalleryImage2"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/Fusuma.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/SwiftSpinner.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/LIHAlert.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/SWActionSheet.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetMultipleStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetLocalePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/DistancePickerView.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDistancePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDatePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPickerDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/AbstractActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker-3.0-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+interface-hash: "f8b17bf262ff5bed77f750a4893522af"

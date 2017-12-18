@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c2db11c20fb046ebf15a0a599781b2a6"
+build_time: [565939216, 848476000]
+inputs:
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSAlbumView.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSAlbumViewCell.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSCameraView.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSConstants.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSImageCropView.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FSVideoCameraView.swift": [555769274, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/Fusuma/Sources/FusumaViewController.swift": [555769274, 0]

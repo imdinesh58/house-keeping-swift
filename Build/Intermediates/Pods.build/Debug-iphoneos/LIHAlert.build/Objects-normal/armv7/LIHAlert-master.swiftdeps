@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f2d29219899b1496310fd6a2fd155e1a"
+build_time: [566024934, 27384000]
+inputs:
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/LIHAlert/Pod/Classes/LIHAlert.swift": [553150482, 0]
+  "/Users/apple-1/Downloads/HouseKeeping/Pods/LIHAlert/Pod/Classes/LIHAlertManager.swift": [553150482, 0]

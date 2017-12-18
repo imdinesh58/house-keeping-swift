@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "94DB4797FC905508F1D42DA6CEEB959BEC23A49E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D8F3AFE7777ECAAEB824E58CED117F574CD948F9" : 9223372036854775807,
+    "94DB4797FC905508F1D42DA6CEEB959BEC23A49E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B4A0472-87E9-4744-B164-DAEC428FE083",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D8F3AFE7777ECAAEB824E58CED117F574CD948F9" : "..\/Documents\/xCode\/SWIFTPROJECTS\/ZionSwift3.0",
+    "94DB4797FC905508F1D42DA6CEEB959BEC23A49E" : "HouseKeeping\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HouseKeeping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HouseKeeping.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/nir777\/housekeeping.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "94DB4797FC905508F1D42DA6CEEB959BEC23A49E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nir777\/ZionSwift3.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D8F3AFE7777ECAAEB824E58CED117F574CD948F9"
+    }
+  ]
+}

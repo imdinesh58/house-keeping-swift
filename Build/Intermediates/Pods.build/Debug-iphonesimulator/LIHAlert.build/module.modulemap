@@ -1,0 +1,10 @@
+framework module LIHAlert {
+  umbrella header "LIHAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module LIHAlert.Swift {
+    header "LIHAlert-Swift.h"
+}

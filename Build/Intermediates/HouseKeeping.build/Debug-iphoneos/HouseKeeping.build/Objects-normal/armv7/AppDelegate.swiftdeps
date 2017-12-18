@@ -1,0 +1,1472 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C12HouseKeeping11AppDelegate"
+provides-member:
+- ["C12HouseKeeping11AppDelegate", ""]
+provides-dynamic-lookup:
+- "applicationWillTerminate"
+- "application"
+- "application"
+- "application"
+- "applicationDidBecomeActive"
+- "applicationWillResignActive"
+- "userNotificationCenter"
+- "userNotificationCenter"
+- "registerForPushNotifications"
+- "saveContext"
+- "persistentContainer"
+- "messaging"
+- "messaging"
+- "applicationWillEnterForeground"
+- "textWithButtonAlert"
+- "window"
+- "getNotificationSettings"
+- "applicationDidEnterBackground"
+- "connectToFcm"
+- "tokenRefreshNotification"
+depends-top-level:
+- "UIApplicationDelegate"
+- "UNUserNotificationCenterDelegate"
+- "UIWindow"
+- "Void"
+- !private "UIUserNotificationSettings"
+- !private "StringLiteralType"
+- !private "NSError"
+- "Bool"
+- !private "UIBackgroundFetchResult"
+- "UIResponder"
+- "String"
+- "UNNotificationResponse"
+- !private "fatalError"
+- "LIHAlert"
+- !private "JSONSerialization"
+- "UNNotification"
+- "UIApplication"
+- !private "AnyObject"
+- "Error"
+- !private "NSObject"
+- "UNNotificationPresentationOptions"
+- "AppDelegate"
+- "UIApplicationLaunchOptionsKey"
+- !private "UIApplicationBackgroundFetchIntervalMinimum"
+- !private "Array"
+- !private "BooleanLiteralType"
+- !private "InstanceIDAPNSTokenType"
+- !private "!="
+- "Data"
+- !private "NotificationCenter"
+- "Messaging"
+- "UNUserNotificationCenter"
+- !private "FirebaseApp"
+- "MessagingDelegate"
+- "NSNotification"
+- !private "NSDictionary"
+- !private "UNAuthorizationOptions"
+- !private "print"
+- "NSPersistentContainer"
+- "MessagingRemoteMessage"
+- !private "InstanceID"
+- !private "UserDefaults"
+- "CastingPrecedence"
+- "AssignmentPrecedence"
+- !private "=="
+depends-member:
+- !private ["Ps9AnyObject", "FirebaseApp"]
+- !private ["Ps9AnyObject", "InstanceID"]
+- !private ["Ps9AnyObject", "InstanceIDAPNSTokenType"]
+- !private ["Ps9AnyObject", "JSONSerialization"]
+- !private ["Ps9AnyObject", "Messaging"]
+- !private ["Ps9AnyObject", "NSNotification"]
+- !private ["Ps9AnyObject", "NSPersistentContainer"]
+- !private ["Ps9AnyObject", "Name"]
+- !private ["Ps9AnyObject", "NotificationCenter"]
+- !private ["Ps9AnyObject", "String"]
+- !private ["Ps9AnyObject", "UIApplication"]
+- !private ["Ps9AnyObject", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps9AnyObject", "UIUserNotificationSettings"]
+- !private ["Ps9AnyObject", "UNUserNotificationCenter"]
+- !private ["Ps9AnyObject", "UserDefaults"]
+- !private ["Ps9AnyObject", "addObserver"]
+- !private ["Ps9AnyObject", "appData"]
+- ["Ps9AnyObject", "application"]
+- ["Ps9AnyObject", "applicationDidBecomeActive"]
+- ["Ps9AnyObject", "applicationDidEnterBackground"]
+- ["Ps9AnyObject", "applicationDidFinishLaunching"]
+- ["Ps9AnyObject", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "applicationIconBadgeNumber"]
+- ["Ps9AnyObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9AnyObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9AnyObject", "applicationReceivedRemoteMessage"]
+- ["Ps9AnyObject", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9AnyObject", "applicationSignificantTimeChange"]
+- ["Ps9AnyObject", "applicationWillEnterForeground"]
+- ["Ps9AnyObject", "applicationWillResignActive"]
+- ["Ps9AnyObject", "applicationWillTerminate"]
+- !private ["Ps9AnyObject", "authorizationStatus"]
+- !private ["Ps9AnyObject", "configure"]
+- !private ["Ps9AnyObject", "connect"]
+- ["Ps9AnyObject", "connectToFcm"]
+- !private ["Ps9AnyObject", "content"]
+- !private ["Ps9AnyObject", "current"]
+- !private ["Ps9AnyObject", "data"]
+- !private ["Ps9AnyObject", "default"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "fatalError"]
+- ["Ps9AnyObject", "getNotificationSettings"]
+- !private ["Ps9AnyObject", "hasChanges"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "instanceID"]
+- !private ["Ps9AnyObject", "loadPersistentStores"]
+- ["Ps9AnyObject", "messaging"]
+- !private ["Ps9AnyObject", "notification"]
+- ["Ps9AnyObject", "persistentContainer"]
+- ["Ps9AnyObject", "persistentContainer.storage"]
+- !private ["Ps9AnyObject", "print"]
+- ["Ps9AnyObject", "registerForPushNotifications"]
+- !private ["Ps9AnyObject", "registerForRemoteNotifications"]
+- !private ["Ps9AnyObject", "registerUserNotificationSettings"]
+- !private ["Ps9AnyObject", "request"]
+- !private ["Ps9AnyObject", "requestAuthorization"]
+- !private ["Ps9AnyObject", "save"]
+- ["Ps9AnyObject", "saveContext"]
+- !private ["Ps9AnyObject", "set"]
+- !private ["Ps9AnyObject", "setAPNSToken"]
+- !private ["Ps9AnyObject", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps9AnyObject", "shared"]
+- !private ["Ps9AnyObject", "shouldEstablishDirectChannel"]
+- !private ["Ps9AnyObject", "standard"]
+- ["Ps9AnyObject", "textWithButtonAlert"]
+- !private ["Ps9AnyObject", "token"]
+- ["Ps9AnyObject", "tokenRefreshNotification"]
+- !private ["Ps9AnyObject", "userInfo"]
+- ["Ps9AnyObject", "userNotificationCenter"]
+- !private ["Ps9AnyObject", "viewContext"]
+- ["Ps9AnyObject", "window"]
+- ["Ps9AnyObject", ""]
+- !private ["C12HouseKeeping11AppDelegate", "AnyObject"]
+- ["C12HouseKeeping11AppDelegate", "Bool"]
+- ["C12HouseKeeping11AppDelegate", "Data"]
+- ["C12HouseKeeping11AppDelegate", "Error"]
+- !private ["C12HouseKeeping11AppDelegate", "FirebaseApp"]
+- !private ["C12HouseKeeping11AppDelegate", "InstanceID"]
+- !private ["C12HouseKeeping11AppDelegate", "InstanceIDAPNSTokenType"]
+- !private ["C12HouseKeeping11AppDelegate", "JSONSerialization"]
+- ["C12HouseKeeping11AppDelegate", "LIHAlert"]
+- ["C12HouseKeeping11AppDelegate", "Messaging"]
+- ["C12HouseKeeping11AppDelegate", "MessagingRemoteMessage"]
+- !private ["C12HouseKeeping11AppDelegate", "NSDictionary"]
+- !private ["C12HouseKeeping11AppDelegate", "NSError"]
+- ["C12HouseKeeping11AppDelegate", "NSNotification"]
+- !private ["C12HouseKeeping11AppDelegate", "NSObject"]
+- ["C12HouseKeeping11AppDelegate", "NSPersistentContainer"]
+- !private ["C12HouseKeeping11AppDelegate", "NotificationCenter"]
+- ["C12HouseKeeping11AppDelegate", "String"]
+- ["C12HouseKeeping11AppDelegate", "UIApplication"]
+- !private ["C12HouseKeeping11AppDelegate", "UIApplicationBackgroundFetchIntervalMinimum"]
+- ["C12HouseKeeping11AppDelegate", "UIApplicationLaunchOptionsKey"]
+- !private ["C12HouseKeeping11AppDelegate", "UIBackgroundFetchResult"]
+- !private ["C12HouseKeeping11AppDelegate", "UIUserNotificationSettings"]
+- ["C12HouseKeeping11AppDelegate", "UIWindow"]
+- !private ["C12HouseKeeping11AppDelegate", "UNAuthorizationOptions"]
+- ["C12HouseKeeping11AppDelegate", "UNNotification"]
+- ["C12HouseKeeping11AppDelegate", "UNNotificationPresentationOptions"]
+- ["C12HouseKeeping11AppDelegate", "UNNotificationResponse"]
+- ["C12HouseKeeping11AppDelegate", "UNUserNotificationCenter"]
+- !private ["C12HouseKeeping11AppDelegate", "UserDefaults"]
+- ["C12HouseKeeping11AppDelegate", "Void"]
+- ["C12HouseKeeping11AppDelegate", "application"]
+- ["C12HouseKeeping11AppDelegate", "applicationDidBecomeActive"]
+- ["C12HouseKeeping11AppDelegate", "applicationDidEnterBackground"]
+- ["C12HouseKeeping11AppDelegate", "applicationDidFinishLaunching"]
+- ["C12HouseKeeping11AppDelegate", "applicationDidReceiveMemoryWarning"]
+- ["C12HouseKeeping11AppDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["C12HouseKeeping11AppDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["C12HouseKeeping11AppDelegate", "applicationReceivedRemoteMessage"]
+- ["C12HouseKeeping11AppDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["C12HouseKeeping11AppDelegate", "applicationSignificantTimeChange"]
+- ["C12HouseKeeping11AppDelegate", "applicationWillEnterForeground"]
+- ["C12HouseKeeping11AppDelegate", "applicationWillResignActive"]
+- ["C12HouseKeeping11AppDelegate", "applicationWillTerminate"]
+- ["C12HouseKeeping11AppDelegate", "connectToFcm"]
+- ["C12HouseKeeping11AppDelegate", "deinit"]
+- !private ["C12HouseKeeping11AppDelegate", "fatalError"]
+- ["C12HouseKeeping11AppDelegate", "getNotificationSettings"]
+- ["C12HouseKeeping11AppDelegate", "init"]
+- ["C12HouseKeeping11AppDelegate", "messaging"]
+- ["C12HouseKeeping11AppDelegate", "persistentContainer"]
+- !private ["C12HouseKeeping11AppDelegate", "persistentContainer.storage"]
+- !private ["C12HouseKeeping11AppDelegate", "print"]
+- ["C12HouseKeeping11AppDelegate", "registerForPushNotifications"]
+- ["C12HouseKeeping11AppDelegate", "saveContext"]
+- ["C12HouseKeeping11AppDelegate", "textWithButtonAlert"]
+- ["C12HouseKeeping11AppDelegate", "tokenRefreshNotification"]
+- ["C12HouseKeeping11AppDelegate", "userNotificationCenter"]
+- ["C12HouseKeeping11AppDelegate", "window"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "FirebaseApp"]
+- !private ["Ps7CVarArg", "InstanceID"]
+- !private ["Ps7CVarArg", "InstanceIDAPNSTokenType"]
+- !private ["Ps7CVarArg", "JSONSerialization"]
+- !private ["Ps7CVarArg", "Messaging"]
+- !private ["Ps7CVarArg", "NSNotification"]
+- !private ["Ps7CVarArg", "NSPersistentContainer"]
+- !private ["Ps7CVarArg", "Name"]
+- !private ["Ps7CVarArg", "NotificationCenter"]
+- !private ["Ps7CVarArg", "String"]
+- !private ["Ps7CVarArg", "UIApplication"]
+- !private ["Ps7CVarArg", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps7CVarArg", "UIUserNotificationSettings"]
+- !private ["Ps7CVarArg", "UNUserNotificationCenter"]
+- !private ["Ps7CVarArg", "UserDefaults"]
+- !private ["Ps7CVarArg", "addObserver"]
+- !private ["Ps7CVarArg", "appData"]
+- ["Ps7CVarArg", "application"]
+- ["Ps7CVarArg", "applicationDidBecomeActive"]
+- ["Ps7CVarArg", "applicationDidEnterBackground"]
+- ["Ps7CVarArg", "applicationDidFinishLaunching"]
+- ["Ps7CVarArg", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "applicationIconBadgeNumber"]
+- ["Ps7CVarArg", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps7CVarArg", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps7CVarArg", "applicationReceivedRemoteMessage"]
+- ["Ps7CVarArg", "applicationShouldRequestHealthAuthorization"]
+- ["Ps7CVarArg", "applicationSignificantTimeChange"]
+- ["Ps7CVarArg", "applicationWillEnterForeground"]
+- ["Ps7CVarArg", "applicationWillResignActive"]
+- ["Ps7CVarArg", "applicationWillTerminate"]
+- !private ["Ps7CVarArg", "authorizationStatus"]
+- !private ["Ps7CVarArg", "configure"]
+- !private ["Ps7CVarArg", "connect"]
+- ["Ps7CVarArg", "connectToFcm"]
+- !private ["Ps7CVarArg", "content"]
+- !private ["Ps7CVarArg", "current"]
+- !private ["Ps7CVarArg", "data"]
+- !private ["Ps7CVarArg", "default"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "fatalError"]
+- ["Ps7CVarArg", "getNotificationSettings"]
+- !private ["Ps7CVarArg", "hasChanges"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "instanceID"]
+- !private ["Ps7CVarArg", "loadPersistentStores"]
+- ["Ps7CVarArg", "messaging"]
+- !private ["Ps7CVarArg", "notification"]
+- ["Ps7CVarArg", "persistentContainer"]
+- ["Ps7CVarArg", "persistentContainer.storage"]
+- !private ["Ps7CVarArg", "print"]
+- ["Ps7CVarArg", "registerForPushNotifications"]
+- !private ["Ps7CVarArg", "registerForRemoteNotifications"]
+- !private ["Ps7CVarArg", "registerUserNotificationSettings"]
+- !private ["Ps7CVarArg", "request"]
+- !private ["Ps7CVarArg", "requestAuthorization"]
+- !private ["Ps7CVarArg", "save"]
+- ["Ps7CVarArg", "saveContext"]
+- !private ["Ps7CVarArg", "set"]
+- !private ["Ps7CVarArg", "setAPNSToken"]
+- !private ["Ps7CVarArg", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps7CVarArg", "shared"]
+- !private ["Ps7CVarArg", "shouldEstablishDirectChannel"]
+- !private ["Ps7CVarArg", "standard"]
+- ["Ps7CVarArg", "textWithButtonAlert"]
+- !private ["Ps7CVarArg", "token"]
+- ["Ps7CVarArg", "tokenRefreshNotification"]
+- !private ["Ps7CVarArg", "userInfo"]
+- ["Ps7CVarArg", "userNotificationCenter"]
+- !private ["Ps7CVarArg", "viewContext"]
+- ["Ps7CVarArg", "window"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "InstanceIDTokenRefresh"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "FirebaseApp"]
+- !private ["Ps28CustomDebugStringConvertible", "InstanceID"]
+- !private ["Ps28CustomDebugStringConvertible", "InstanceIDAPNSTokenType"]
+- !private ["Ps28CustomDebugStringConvertible", "JSONSerialization"]
+- !private ["Ps28CustomDebugStringConvertible", "Messaging"]
+- !private ["Ps28CustomDebugStringConvertible", "NSNotification"]
+- !private ["Ps28CustomDebugStringConvertible", "NSPersistentContainer"]
+- !private ["Ps28CustomDebugStringConvertible", "Name"]
+- !private ["Ps28CustomDebugStringConvertible", "NotificationCenter"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplication"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps28CustomDebugStringConvertible", "UIUserNotificationSettings"]
+- !private ["Ps28CustomDebugStringConvertible", "UNUserNotificationCenter"]
+- !private ["Ps28CustomDebugStringConvertible", "UserDefaults"]
+- !private ["Ps28CustomDebugStringConvertible", "addObserver"]
+- !private ["Ps28CustomDebugStringConvertible", "appData"]
+- ["Ps28CustomDebugStringConvertible", "application"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidEnterBackground"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "applicationIconBadgeNumber"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationReceivedRemoteMessage"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps28CustomDebugStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillEnterForeground"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillTerminate"]
+- !private ["Ps28CustomDebugStringConvertible", "authorizationStatus"]
+- !private ["Ps28CustomDebugStringConvertible", "configure"]
+- !private ["Ps28CustomDebugStringConvertible", "connect"]
+- ["Ps28CustomDebugStringConvertible", "connectToFcm"]
+- !private ["Ps28CustomDebugStringConvertible", "content"]
+- !private ["Ps28CustomDebugStringConvertible", "current"]
+- !private ["Ps28CustomDebugStringConvertible", "data"]
+- !private ["Ps28CustomDebugStringConvertible", "default"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "fatalError"]
+- ["Ps28CustomDebugStringConvertible", "getNotificationSettings"]
+- !private ["Ps28CustomDebugStringConvertible", "hasChanges"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "instanceID"]
+- !private ["Ps28CustomDebugStringConvertible", "loadPersistentStores"]
+- ["Ps28CustomDebugStringConvertible", "messaging"]
+- !private ["Ps28CustomDebugStringConvertible", "notification"]
+- ["Ps28CustomDebugStringConvertible", "persistentContainer"]
+- ["Ps28CustomDebugStringConvertible", "persistentContainer.storage"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- ["Ps28CustomDebugStringConvertible", "registerForPushNotifications"]
+- !private ["Ps28CustomDebugStringConvertible", "registerForRemoteNotifications"]
+- !private ["Ps28CustomDebugStringConvertible", "registerUserNotificationSettings"]
+- !private ["Ps28CustomDebugStringConvertible", "request"]
+- !private ["Ps28CustomDebugStringConvertible", "requestAuthorization"]
+- !private ["Ps28CustomDebugStringConvertible", "save"]
+- ["Ps28CustomDebugStringConvertible", "saveContext"]
+- !private ["Ps28CustomDebugStringConvertible", "set"]
+- !private ["Ps28CustomDebugStringConvertible", "setAPNSToken"]
+- !private ["Ps28CustomDebugStringConvertible", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps28CustomDebugStringConvertible", "shared"]
+- !private ["Ps28CustomDebugStringConvertible", "shouldEstablishDirectChannel"]
+- !private ["Ps28CustomDebugStringConvertible", "standard"]
+- ["Ps28CustomDebugStringConvertible", "textWithButtonAlert"]
+- !private ["Ps28CustomDebugStringConvertible", "token"]
+- ["Ps28CustomDebugStringConvertible", "tokenRefreshNotification"]
+- !private ["Ps28CustomDebugStringConvertible", "userInfo"]
+- ["Ps28CustomDebugStringConvertible", "userNotificationCenter"]
+- !private ["Ps28CustomDebugStringConvertible", "viewContext"]
+- ["Ps28CustomDebugStringConvertible", "window"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "FirebaseApp"]
+- !private ["Ps23CustomStringConvertible", "InstanceID"]
+- !private ["Ps23CustomStringConvertible", "InstanceIDAPNSTokenType"]
+- !private ["Ps23CustomStringConvertible", "JSONSerialization"]
+- !private ["Ps23CustomStringConvertible", "Messaging"]
+- !private ["Ps23CustomStringConvertible", "NSNotification"]
+- !private ["Ps23CustomStringConvertible", "NSPersistentContainer"]
+- !private ["Ps23CustomStringConvertible", "Name"]
+- !private ["Ps23CustomStringConvertible", "NotificationCenter"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "UIApplication"]
+- !private ["Ps23CustomStringConvertible", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps23CustomStringConvertible", "UIUserNotificationSettings"]
+- !private ["Ps23CustomStringConvertible", "UNUserNotificationCenter"]
+- !private ["Ps23CustomStringConvertible", "UserDefaults"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addObserver"]
+- !private ["Ps23CustomStringConvertible", "appData"]
+- ["Ps23CustomStringConvertible", "application"]
+- ["Ps23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationDidEnterBackground"]
+- ["Ps23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "applicationIconBadgeNumber"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps23CustomStringConvertible", "applicationReceivedRemoteMessage"]
+- ["Ps23CustomStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps23CustomStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps23CustomStringConvertible", "applicationWillEnterForeground"]
+- ["Ps23CustomStringConvertible", "applicationWillResignActive"]
+- ["Ps23CustomStringConvertible", "applicationWillTerminate"]
+- !private ["Ps23CustomStringConvertible", "authorizationStatus"]
+- !private ["Ps23CustomStringConvertible", "configure"]
+- !private ["Ps23CustomStringConvertible", "connect"]
+- ["Ps23CustomStringConvertible", "connectToFcm"]
+- !private ["Ps23CustomStringConvertible", "content"]
+- !private ["Ps23CustomStringConvertible", "current"]
+- !private ["Ps23CustomStringConvertible", "data"]
+- !private ["Ps23CustomStringConvertible", "default"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "fatalError"]
+- ["Ps23CustomStringConvertible", "getNotificationSettings"]
+- !private ["Ps23CustomStringConvertible", "hasChanges"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "instanceID"]
+- !private ["Ps23CustomStringConvertible", "loadPersistentStores"]
+- ["Ps23CustomStringConvertible", "messaging"]
+- !private ["Ps23CustomStringConvertible", "notification"]
+- ["Ps23CustomStringConvertible", "persistentContainer"]
+- ["Ps23CustomStringConvertible", "persistentContainer.storage"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- ["Ps23CustomStringConvertible", "registerForPushNotifications"]
+- !private ["Ps23CustomStringConvertible", "registerForRemoteNotifications"]
+- !private ["Ps23CustomStringConvertible", "registerUserNotificationSettings"]
+- !private ["Ps23CustomStringConvertible", "request"]
+- !private ["Ps23CustomStringConvertible", "requestAuthorization"]
+- !private ["Ps23CustomStringConvertible", "save"]
+- ["Ps23CustomStringConvertible", "saveContext"]
+- !private ["Ps23CustomStringConvertible", "set"]
+- !private ["Ps23CustomStringConvertible", "setAPNSToken"]
+- !private ["Ps23CustomStringConvertible", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps23CustomStringConvertible", "shared"]
+- !private ["Ps23CustomStringConvertible", "shouldEstablishDirectChannel"]
+- !private ["Ps23CustomStringConvertible", "standard"]
+- ["Ps23CustomStringConvertible", "textWithButtonAlert"]
+- !private ["Ps23CustomStringConvertible", "token"]
+- ["Ps23CustomStringConvertible", "tokenRefreshNotification"]
+- !private ["Ps23CustomStringConvertible", "userInfo"]
+- ["Ps23CustomStringConvertible", "userNotificationCenter"]
+- !private ["Ps23CustomStringConvertible", "utf8"]
+- !private ["Ps23CustomStringConvertible", "viewContext"]
+- ["Ps23CustomStringConvertible", "window"]
+- ["Ps23CustomStringConvertible", ""]
+- ["V10Foundation4Data", "deinit"]
+- ["Vs10Dictionary", "deinit"]
+- ["Sd", "deinit"]
+- ["VE10FoundationSS8Encoding", "deinit"]
+- !private ["VE10FoundationSS8Encoding", "utf8"]
+- !private ["Ps9Equatable", "Element"]
+- !private ["Ps9Equatable", "FirebaseApp"]
+- !private ["Ps9Equatable", "InstanceID"]
+- !private ["Ps9Equatable", "InstanceIDAPNSTokenType"]
+- !private ["Ps9Equatable", "InstanceIDTokenRefresh"]
+- !private ["Ps9Equatable", "JSONSerialization"]
+- !private ["Ps9Equatable", "Messaging"]
+- !private ["Ps9Equatable", "NSNotification"]
+- !private ["Ps9Equatable", "NSPersistentContainer"]
+- !private ["Ps9Equatable", "Name"]
+- !private ["Ps9Equatable", "NotificationCenter"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "String"]
+- !private ["Ps9Equatable", "UIApplication"]
+- !private ["Ps9Equatable", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps9Equatable", "UIUserNotificationSettings"]
+- !private ["Ps9Equatable", "UNUserNotificationCenter"]
+- !private ["Ps9Equatable", "UserDefaults"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addObserver"]
+- !private ["Ps9Equatable", "alert"]
+- !private ["Ps9Equatable", "appData"]
+- ["Ps9Equatable", "application"]
+- ["Ps9Equatable", "applicationDidBecomeActive"]
+- ["Ps9Equatable", "applicationDidEnterBackground"]
+- ["Ps9Equatable", "applicationDidFinishLaunching"]
+- ["Ps9Equatable", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "applicationIconBadgeNumber"]
+- ["Ps9Equatable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9Equatable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9Equatable", "applicationReceivedRemoteMessage"]
+- ["Ps9Equatable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9Equatable", "applicationSignificantTimeChange"]
+- ["Ps9Equatable", "applicationWillEnterForeground"]
+- ["Ps9Equatable", "applicationWillResignActive"]
+- ["Ps9Equatable", "applicationWillTerminate"]
+- !private ["Ps9Equatable", "authorizationStatus"]
+- !private ["Ps9Equatable", "authorized"]
+- !private ["Ps9Equatable", "badge"]
+- !private ["Ps9Equatable", "configure"]
+- !private ["Ps9Equatable", "connect"]
+- ["Ps9Equatable", "connectToFcm"]
+- !private ["Ps9Equatable", "content"]
+- !private ["Ps9Equatable", "current"]
+- !private ["Ps9Equatable", "data"]
+- !private ["Ps9Equatable", "default"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "fatalError"]
+- ["Ps9Equatable", "getNotificationSettings"]
+- !private ["Ps9Equatable", "hasChanges"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "instanceID"]
+- !private ["Ps9Equatable", "loadPersistentStores"]
+- ["Ps9Equatable", "messaging"]
+- !private ["Ps9Equatable", "newData"]
+- !private ["Ps9Equatable", "notification"]
+- ["Ps9Equatable", "persistentContainer"]
+- ["Ps9Equatable", "persistentContainer.storage"]
+- !private ["Ps9Equatable", "prettyPrinted"]
+- !private ["Ps9Equatable", "print"]
+- ["Ps9Equatable", "registerForPushNotifications"]
+- !private ["Ps9Equatable", "registerForRemoteNotifications"]
+- !private ["Ps9Equatable", "registerUserNotificationSettings"]
+- !private ["Ps9Equatable", "request"]
+- !private ["Ps9Equatable", "requestAuthorization"]
+- !private ["Ps9Equatable", "sandbox"]
+- !private ["Ps9Equatable", "save"]
+- ["Ps9Equatable", "saveContext"]
+- !private ["Ps9Equatable", "set"]
+- !private ["Ps9Equatable", "setAPNSToken"]
+- !private ["Ps9Equatable", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps9Equatable", "shared"]
+- !private ["Ps9Equatable", "shouldEstablishDirectChannel"]
+- !private ["Ps9Equatable", "sound"]
+- !private ["Ps9Equatable", "standard"]
+- ["Ps9Equatable", "textWithButtonAlert"]
+- !private ["Ps9Equatable", "token"]
+- ["Ps9Equatable", "tokenRefreshNotification"]
+- !private ["Ps9Equatable", "userInfo"]
+- ["Ps9Equatable", "userNotificationCenter"]
+- !private ["Ps9Equatable", "utf8"]
+- !private ["Ps9Equatable", "viewContext"]
+- ["Ps9Equatable", "window"]
+- ["Ps9Equatable", ""]
+- ["Ps5Error", "deinit"]
+- !private ["Ps5Error", "userInfo"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "alert"]
+- !private ["Ps25ExpressibleByArrayLiteral", "badge"]
+- !private ["Ps25ExpressibleByArrayLiteral", "prettyPrinted"]
+- !private ["Ps25ExpressibleByArrayLiteral", "sound"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["CSo11FirebaseApp", "configure"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "FirebaseApp"]
+- !private ["Ps8Hashable", "InstanceID"]
+- !private ["Ps8Hashable", "InstanceIDAPNSTokenType"]
+- !private ["Ps8Hashable", "InstanceIDTokenRefresh"]
+- !private ["Ps8Hashable", "JSONSerialization"]
+- !private ["Ps8Hashable", "Messaging"]
+- !private ["Ps8Hashable", "NSNotification"]
+- !private ["Ps8Hashable", "NSPersistentContainer"]
+- !private ["Ps8Hashable", "Name"]
+- !private ["Ps8Hashable", "NotificationCenter"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "String"]
+- !private ["Ps8Hashable", "UIApplication"]
+- !private ["Ps8Hashable", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps8Hashable", "UIUserNotificationSettings"]
+- !private ["Ps8Hashable", "UNUserNotificationCenter"]
+- !private ["Ps8Hashable", "UserDefaults"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addObserver"]
+- !private ["Ps8Hashable", "appData"]
+- ["Ps8Hashable", "application"]
+- ["Ps8Hashable", "applicationDidBecomeActive"]
+- ["Ps8Hashable", "applicationDidEnterBackground"]
+- ["Ps8Hashable", "applicationDidFinishLaunching"]
+- ["Ps8Hashable", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "applicationIconBadgeNumber"]
+- ["Ps8Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps8Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps8Hashable", "applicationReceivedRemoteMessage"]
+- ["Ps8Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps8Hashable", "applicationSignificantTimeChange"]
+- ["Ps8Hashable", "applicationWillEnterForeground"]
+- ["Ps8Hashable", "applicationWillResignActive"]
+- ["Ps8Hashable", "applicationWillTerminate"]
+- !private ["Ps8Hashable", "authorizationStatus"]
+- !private ["Ps8Hashable", "authorized"]
+- !private ["Ps8Hashable", "configure"]
+- !private ["Ps8Hashable", "connect"]
+- ["Ps8Hashable", "connectToFcm"]
+- !private ["Ps8Hashable", "content"]
+- !private ["Ps8Hashable", "current"]
+- !private ["Ps8Hashable", "data"]
+- !private ["Ps8Hashable", "default"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "fatalError"]
+- ["Ps8Hashable", "getNotificationSettings"]
+- !private ["Ps8Hashable", "hasChanges"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "instanceID"]
+- !private ["Ps8Hashable", "loadPersistentStores"]
+- ["Ps8Hashable", "messaging"]
+- !private ["Ps8Hashable", "newData"]
+- !private ["Ps8Hashable", "notification"]
+- ["Ps8Hashable", "persistentContainer"]
+- ["Ps8Hashable", "persistentContainer.storage"]
+- !private ["Ps8Hashable", "print"]
+- ["Ps8Hashable", "registerForPushNotifications"]
+- !private ["Ps8Hashable", "registerForRemoteNotifications"]
+- !private ["Ps8Hashable", "registerUserNotificationSettings"]
+- !private ["Ps8Hashable", "request"]
+- !private ["Ps8Hashable", "requestAuthorization"]
+- !private ["Ps8Hashable", "sandbox"]
+- !private ["Ps8Hashable", "save"]
+- ["Ps8Hashable", "saveContext"]
+- !private ["Ps8Hashable", "set"]
+- !private ["Ps8Hashable", "setAPNSToken"]
+- !private ["Ps8Hashable", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps8Hashable", "shared"]
+- !private ["Ps8Hashable", "shouldEstablishDirectChannel"]
+- !private ["Ps8Hashable", "standard"]
+- ["Ps8Hashable", "textWithButtonAlert"]
+- !private ["Ps8Hashable", "token"]
+- ["Ps8Hashable", "tokenRefreshNotification"]
+- !private ["Ps8Hashable", "userInfo"]
+- ["Ps8Hashable", "userNotificationCenter"]
+- !private ["Ps8Hashable", "utf8"]
+- !private ["Ps8Hashable", "viewContext"]
+- ["Ps8Hashable", "window"]
+- ["Ps8Hashable", ""]
+- ["CSo10InstanceID", "deinit"]
+- !private ["CSo10InstanceID", "instanceID"]
+- !private ["CSo10InstanceID", "setAPNSToken"]
+- !private ["CSo10InstanceID", "token"]
+- ["OSC23InstanceIDAPNSTokenType", "deinit"]
+- !private ["OSC23InstanceIDAPNSTokenType", "sandbox"]
+- ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["CSo17JSONSerialization", "data"]
+- !private ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["CSo9Messaging", "connect"]
+- ["CSo9Messaging", "deinit"]
+- !private ["CSo9Messaging", "delegate"]
+- !private ["CSo9Messaging", "messaging"]
+- !private ["CSo9Messaging", "shouldEstablishDirectChannel"]
+- !private ["PSo17MessagingDelegate", "FirebaseApp"]
+- !private ["PSo17MessagingDelegate", "InstanceID"]
+- !private ["PSo17MessagingDelegate", "InstanceIDAPNSTokenType"]
+- !private ["PSo17MessagingDelegate", "JSONSerialization"]
+- !private ["PSo17MessagingDelegate", "Messaging"]
+- !private ["PSo17MessagingDelegate", "NSNotification"]
+- !private ["PSo17MessagingDelegate", "NSPersistentContainer"]
+- !private ["PSo17MessagingDelegate", "NotificationCenter"]
+- !private ["PSo17MessagingDelegate", "String"]
+- !private ["PSo17MessagingDelegate", "UIApplication"]
+- !private ["PSo17MessagingDelegate", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["PSo17MessagingDelegate", "UIUserNotificationSettings"]
+- !private ["PSo17MessagingDelegate", "UNUserNotificationCenter"]
+- !private ["PSo17MessagingDelegate", "UserDefaults"]
+- ["PSo17MessagingDelegate", "application"]
+- ["PSo17MessagingDelegate", "applicationDidBecomeActive"]
+- ["PSo17MessagingDelegate", "applicationDidEnterBackground"]
+- ["PSo17MessagingDelegate", "applicationDidFinishLaunching"]
+- ["PSo17MessagingDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo17MessagingDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo17MessagingDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo17MessagingDelegate", "applicationReceivedRemoteMessage"]
+- ["PSo17MessagingDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo17MessagingDelegate", "applicationSignificantTimeChange"]
+- ["PSo17MessagingDelegate", "applicationWillEnterForeground"]
+- ["PSo17MessagingDelegate", "applicationWillResignActive"]
+- ["PSo17MessagingDelegate", "applicationWillTerminate"]
+- !private ["PSo17MessagingDelegate", "connectToFcm"]
+- !private ["PSo17MessagingDelegate", "fatalError"]
+- !private ["PSo17MessagingDelegate", "getNotificationSettings"]
+- ["PSo17MessagingDelegate", "messaging"]
+- !private ["PSo17MessagingDelegate", "persistentContainer"]
+- !private ["PSo17MessagingDelegate", "print"]
+- !private ["PSo17MessagingDelegate", "registerForPushNotifications"]
+- !private ["PSo17MessagingDelegate", "saveContext"]
+- !private ["PSo17MessagingDelegate", "tokenRefreshNotification"]
+- ["PSo17MessagingDelegate", "userNotificationCenter"]
+- ["PSo17MessagingDelegate", "window"]
+- ["PSo17MessagingDelegate", ""]
+- !private ["CSo22MessagingRemoteMessage", "appData"]
+- ["CSo22MessagingRemoteMessage", "deinit"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "Name"]
+- !private ["PSo8NSCoding", "authorizationStatus"]
+- !private ["PSo8NSCoding", "content"]
+- !private ["PSo8NSCoding", "hasChanges"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "notification"]
+- !private ["PSo8NSCoding", "request"]
+- !private ["PSo8NSCoding", "save"]
+- !private ["PSo8NSCoding", "userInfo"]
+- !private ["PSo9NSCopying", "Name"]
+- !private ["PSo9NSCopying", "authorizationStatus"]
+- !private ["PSo9NSCopying", "content"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "notification"]
+- !private ["PSo9NSCopying", "request"]
+- !private ["PSo9NSCopying", "userInfo"]
+- ["CSo12NSDictionary", "deinit"]
+- ["CSo7NSError", "deinit"]
+- !private ["CSo7NSError", "userInfo"]
+- !private ["PSo9NSLocking", "hasChanges"]
+- !private ["PSo9NSLocking", "save"]
+- ["CSo22NSManagedObjectContext", "deinit"]
+- !private ["CSo22NSManagedObjectContext", "hasChanges"]
+- !private ["CSo22NSManagedObjectContext", "save"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSMutableCopying", "userInfo"]
+- !private ["CSo14NSNotification", "Name"]
+- !private ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "Data"]
+- ["CSo8NSObject", "Error"]
+- !private ["CSo8NSObject", "FirebaseApp"]
+- !private ["CSo8NSObject", "InstanceID"]
+- !private ["CSo8NSObject", "InstanceIDAPNSTokenType"]
+- !private ["CSo8NSObject", "JSONSerialization"]
+- ["CSo8NSObject", "LIHAlert"]
+- ["CSo8NSObject", "Messaging"]
+- ["CSo8NSObject", "MessagingRemoteMessage"]
+- !private ["CSo8NSObject", "NSDictionary"]
+- !private ["CSo8NSObject", "NSError"]
+- ["CSo8NSObject", "NSNotification"]
+- !private ["CSo8NSObject", "NSObject"]
+- ["CSo8NSObject", "NSPersistentContainer"]
+- !private ["CSo8NSObject", "Name"]
+- !private ["CSo8NSObject", "NotificationCenter"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIApplication"]
+- !private ["CSo8NSObject", "UIApplicationBackgroundFetchIntervalMinimum"]
+- ["CSo8NSObject", "UIApplicationLaunchOptionsKey"]
+- !private ["CSo8NSObject", "UIBackgroundFetchResult"]
+- !private ["CSo8NSObject", "UIUserNotificationSettings"]
+- ["CSo8NSObject", "UIWindow"]
+- !private ["CSo8NSObject", "UNAuthorizationOptions"]
+- ["CSo8NSObject", "UNNotification"]
+- ["CSo8NSObject", "UNNotificationPresentationOptions"]
+- ["CSo8NSObject", "UNNotificationResponse"]
+- ["CSo8NSObject", "UNUserNotificationCenter"]
+- !private ["CSo8NSObject", "UserDefaults"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "addObserver"]
+- !private ["CSo8NSObject", "appData"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidEnterBackground"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "applicationIconBadgeNumber"]
+- ["CSo8NSObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo8NSObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo8NSObject", "applicationReceivedRemoteMessage"]
+- ["CSo8NSObject", "applicationShouldRequestHealthAuthorization"]
+- ["CSo8NSObject", "applicationSignificantTimeChange"]
+- ["CSo8NSObject", "applicationWillEnterForeground"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- !private ["CSo8NSObject", "authorizationStatus"]
+- !private ["CSo8NSObject", "configure"]
+- !private ["CSo8NSObject", "connect"]
+- ["CSo8NSObject", "connectToFcm"]
+- !private ["CSo8NSObject", "content"]
+- !private ["CSo8NSObject", "current"]
+- !private ["CSo8NSObject", "data"]
+- !private ["CSo8NSObject", "default"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "fatalError"]
+- ["CSo8NSObject", "getNotificationSettings"]
+- !private ["CSo8NSObject", "hasChanges"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instanceID"]
+- !private ["CSo8NSObject", "loadPersistentStores"]
+- ["CSo8NSObject", "messaging"]
+- !private ["CSo8NSObject", "notification"]
+- ["CSo8NSObject", "persistentContainer"]
+- ["CSo8NSObject", "persistentContainer.storage"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "registerForPushNotifications"]
+- !private ["CSo8NSObject", "registerForRemoteNotifications"]
+- !private ["CSo8NSObject", "registerUserNotificationSettings"]
+- !private ["CSo8NSObject", "request"]
+- !private ["CSo8NSObject", "requestAuthorization"]
+- !private ["CSo8NSObject", "save"]
+- ["CSo8NSObject", "saveContext"]
+- !private ["CSo8NSObject", "set"]
+- !private ["CSo8NSObject", "setAPNSToken"]
+- !private ["CSo8NSObject", "setMinimumBackgroundFetchInterval"]
+- !private ["CSo8NSObject", "shared"]
+- !private ["CSo8NSObject", "shouldEstablishDirectChannel"]
+- !private ["CSo8NSObject", "standard"]
+- ["CSo8NSObject", "textWithButtonAlert"]
+- !private ["CSo8NSObject", "token"]
+- ["CSo8NSObject", "tokenRefreshNotification"]
+- !private ["CSo8NSObject", "userInfo"]
+- ["CSo8NSObject", "userNotificationCenter"]
+- !private ["CSo8NSObject", "viewContext"]
+- ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "FirebaseApp"]
+- !private ["PSo16NSObjectProtocol", "InstanceID"]
+- !private ["PSo16NSObjectProtocol", "InstanceIDAPNSTokenType"]
+- !private ["PSo16NSObjectProtocol", "JSONSerialization"]
+- !private ["PSo16NSObjectProtocol", "Messaging"]
+- !private ["PSo16NSObjectProtocol", "NSNotification"]
+- !private ["PSo16NSObjectProtocol", "NSPersistentContainer"]
+- !private ["PSo16NSObjectProtocol", "Name"]
+- !private ["PSo16NSObjectProtocol", "NotificationCenter"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["PSo16NSObjectProtocol", "UIUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "UNUserNotificationCenter"]
+- !private ["PSo16NSObjectProtocol", "UserDefaults"]
+- !private ["PSo16NSObjectProtocol", "addObserver"]
+- !private ["PSo16NSObjectProtocol", "appData"]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidEnterBackground"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "applicationIconBadgeNumber"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo16NSObjectProtocol", "applicationReceivedRemoteMessage"]
+- ["PSo16NSObjectProtocol", "applicationShouldRequestHealthAuthorization"]
+- ["PSo16NSObjectProtocol", "applicationSignificantTimeChange"]
+- ["PSo16NSObjectProtocol", "applicationWillEnterForeground"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- !private ["PSo16NSObjectProtocol", "authorizationStatus"]
+- !private ["PSo16NSObjectProtocol", "configure"]
+- !private ["PSo16NSObjectProtocol", "connect"]
+- ["PSo16NSObjectProtocol", "connectToFcm"]
+- !private ["PSo16NSObjectProtocol", "content"]
+- !private ["PSo16NSObjectProtocol", "current"]
+- !private ["PSo16NSObjectProtocol", "data"]
+- !private ["PSo16NSObjectProtocol", "default"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "fatalError"]
+- ["PSo16NSObjectProtocol", "getNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "hasChanges"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instanceID"]
+- !private ["PSo16NSObjectProtocol", "loadPersistentStores"]
+- ["PSo16NSObjectProtocol", "messaging"]
+- !private ["PSo16NSObjectProtocol", "notification"]
+- ["PSo16NSObjectProtocol", "persistentContainer"]
+- ["PSo16NSObjectProtocol", "persistentContainer.storage"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "registerForPushNotifications"]
+- !private ["PSo16NSObjectProtocol", "registerForRemoteNotifications"]
+- !private ["PSo16NSObjectProtocol", "registerUserNotificationSettings"]
+- !private ["PSo16NSObjectProtocol", "request"]
+- !private ["PSo16NSObjectProtocol", "requestAuthorization"]
+- !private ["PSo16NSObjectProtocol", "save"]
+- ["PSo16NSObjectProtocol", "saveContext"]
+- !private ["PSo16NSObjectProtocol", "set"]
+- !private ["PSo16NSObjectProtocol", "setAPNSToken"]
+- !private ["PSo16NSObjectProtocol", "setMinimumBackgroundFetchInterval"]
+- !private ["PSo16NSObjectProtocol", "shared"]
+- !private ["PSo16NSObjectProtocol", "shouldEstablishDirectChannel"]
+- !private ["PSo16NSObjectProtocol", "standard"]
+- ["PSo16NSObjectProtocol", "textWithButtonAlert"]
+- !private ["PSo16NSObjectProtocol", "token"]
+- ["PSo16NSObjectProtocol", "tokenRefreshNotification"]
+- !private ["PSo16NSObjectProtocol", "userInfo"]
+- ["PSo16NSObjectProtocol", "userNotificationCenter"]
+- !private ["PSo16NSObjectProtocol", "viewContext"]
+- ["PSo16NSObjectProtocol", "window"]
+- ["PSo16NSObjectProtocol", ""]
+- ["CSo21NSPersistentContainer", "deinit"]
+- !private ["CSo21NSPersistentContainer", "init"]
+- !private ["CSo21NSPersistentContainer", "loadPersistentStores"]
+- !private ["CSo21NSPersistentContainer", "viewContext"]
+- !private ["PSo14NSSecureCoding", "authorizationStatus"]
+- !private ["PSo14NSSecureCoding", "content"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "notification"]
+- !private ["PSo14NSSecureCoding", "request"]
+- !private ["PSo14NSSecureCoding", "userInfo"]
+- !private ["CSo8NSString", "init"]
+- !private ["VCSo14NSNotification4Name", "InstanceIDTokenRefresh"]
+- ["VCSo14NSNotification4Name", "deinit"]
+- ["Os5Never", "deinit"]
+- !private ["CSo18NotificationCenter", "addObserver"]
+- !private ["CSo18NotificationCenter", "default"]
+- ["CSo18NotificationCenter", "deinit"]
+- !private ["Ps9OptionSet", "Element"]
+- !private ["Ps9OptionSet", "alert"]
+- !private ["Ps9OptionSet", "badge"]
+- !private ["Ps9OptionSet", "prettyPrinted"]
+- !private ["Ps9OptionSet", "sound"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "Element"]
+- !private ["Ps16RawRepresentable", "InstanceIDTokenRefresh"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "authorized"]
+- !private ["Ps16RawRepresentable", "badge"]
+- !private ["Ps16RawRepresentable", "newData"]
+- !private ["Ps16RawRepresentable", "prettyPrinted"]
+- !private ["Ps16RawRepresentable", "sandbox"]
+- !private ["Ps16RawRepresentable", "sound"]
+- !private ["Ps16RawRepresentable", "utf8"]
+- ["V10ObjectiveC8Selector", "deinit"]
+- !private ["Ps10SetAlgebra", "Element"]
+- !private ["Ps10SetAlgebra", "alert"]
+- !private ["Ps10SetAlgebra", "badge"]
+- !private ["Ps10SetAlgebra", "prettyPrinted"]
+- !private ["Ps10SetAlgebra", "sound"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["CSo13UIApplication", "applicationIconBadgeNumber"]
+- ["CSo13UIApplication", "deinit"]
+- !private ["CSo13UIApplication", "registerForRemoteNotifications"]
+- !private ["CSo13UIApplication", "registerUserNotificationSettings"]
+- !private ["CSo13UIApplication", "setMinimumBackgroundFetchInterval"]
+- !private ["CSo13UIApplication", "shared"]
+- !private ["PSo21UIApplicationDelegate", "FirebaseApp"]
+- !private ["PSo21UIApplicationDelegate", "InstanceID"]
+- !private ["PSo21UIApplicationDelegate", "InstanceIDAPNSTokenType"]
+- !private ["PSo21UIApplicationDelegate", "JSONSerialization"]
+- !private ["PSo21UIApplicationDelegate", "Messaging"]
+- !private ["PSo21UIApplicationDelegate", "NSNotification"]
+- !private ["PSo21UIApplicationDelegate", "NSPersistentContainer"]
+- !private ["PSo21UIApplicationDelegate", "NotificationCenter"]
+- !private ["PSo21UIApplicationDelegate", "String"]
+- !private ["PSo21UIApplicationDelegate", "UIApplication"]
+- !private ["PSo21UIApplicationDelegate", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["PSo21UIApplicationDelegate", "UIUserNotificationSettings"]
+- !private ["PSo21UIApplicationDelegate", "UNUserNotificationCenter"]
+- !private ["PSo21UIApplicationDelegate", "UserDefaults"]
+- ["PSo21UIApplicationDelegate", "application"]
+- ["PSo21UIApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21UIApplicationDelegate", "applicationDidEnterBackground"]
+- ["PSo21UIApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21UIApplicationDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo21UIApplicationDelegate", "applicationReceivedRemoteMessage"]
+- ["PSo21UIApplicationDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo21UIApplicationDelegate", "applicationSignificantTimeChange"]
+- ["PSo21UIApplicationDelegate", "applicationWillEnterForeground"]
+- ["PSo21UIApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21UIApplicationDelegate", "applicationWillTerminate"]
+- !private ["PSo21UIApplicationDelegate", "connectToFcm"]
+- !private ["PSo21UIApplicationDelegate", "fatalError"]
+- !private ["PSo21UIApplicationDelegate", "getNotificationSettings"]
+- ["PSo21UIApplicationDelegate", "messaging"]
+- !private ["PSo21UIApplicationDelegate", "persistentContainer"]
+- !private ["PSo21UIApplicationDelegate", "print"]
+- !private ["PSo21UIApplicationDelegate", "registerForPushNotifications"]
+- !private ["PSo21UIApplicationDelegate", "saveContext"]
+- !private ["PSo21UIApplicationDelegate", "tokenRefreshNotification"]
+- ["PSo21UIApplicationDelegate", "userNotificationCenter"]
+- ["PSo21UIApplicationDelegate", "window"]
+- ["PSo21UIApplicationDelegate", ""]
+- !private ["OSC23UIBackgroundFetchResult", "deinit"]
+- !private ["OSC23UIBackgroundFetchResult", "newData"]
+- !private ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "Data"]
+- ["CSo11UIResponder", "Error"]
+- !private ["CSo11UIResponder", "FirebaseApp"]
+- !private ["CSo11UIResponder", "InstanceID"]
+- !private ["CSo11UIResponder", "InstanceIDAPNSTokenType"]
+- !private ["CSo11UIResponder", "JSONSerialization"]
+- ["CSo11UIResponder", "LIHAlert"]
+- ["CSo11UIResponder", "Messaging"]
+- ["CSo11UIResponder", "MessagingRemoteMessage"]
+- !private ["CSo11UIResponder", "NSDictionary"]
+- !private ["CSo11UIResponder", "NSError"]
+- ["CSo11UIResponder", "NSNotification"]
+- !private ["CSo11UIResponder", "NSObject"]
+- ["CSo11UIResponder", "NSPersistentContainer"]
+- !private ["CSo11UIResponder", "NotificationCenter"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIApplication"]
+- !private ["CSo11UIResponder", "UIApplicationBackgroundFetchIntervalMinimum"]
+- ["CSo11UIResponder", "UIApplicationLaunchOptionsKey"]
+- !private ["CSo11UIResponder", "UIBackgroundFetchResult"]
+- !private ["CSo11UIResponder", "UIUserNotificationSettings"]
+- ["CSo11UIResponder", "UIWindow"]
+- !private ["CSo11UIResponder", "UNAuthorizationOptions"]
+- ["CSo11UIResponder", "UNNotification"]
+- ["CSo11UIResponder", "UNNotificationPresentationOptions"]
+- ["CSo11UIResponder", "UNNotificationResponse"]
+- ["CSo11UIResponder", "UNUserNotificationCenter"]
+- !private ["CSo11UIResponder", "UserDefaults"]
+- ["CSo11UIResponder", "Void"]
+- ["CSo11UIResponder", "application"]
+- ["CSo11UIResponder", "applicationDidBecomeActive"]
+- ["CSo11UIResponder", "applicationDidEnterBackground"]
+- ["CSo11UIResponder", "applicationDidFinishLaunching"]
+- ["CSo11UIResponder", "applicationDidReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "applicationIconBadgeNumber"]
+- ["CSo11UIResponder", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo11UIResponder", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo11UIResponder", "applicationReceivedRemoteMessage"]
+- ["CSo11UIResponder", "applicationShouldRequestHealthAuthorization"]
+- ["CSo11UIResponder", "applicationSignificantTimeChange"]
+- ["CSo11UIResponder", "applicationWillEnterForeground"]
+- ["CSo11UIResponder", "applicationWillResignActive"]
+- ["CSo11UIResponder", "applicationWillTerminate"]
+- ["CSo11UIResponder", "connectToFcm"]
+- ["CSo11UIResponder", "deinit"]
+- !private ["CSo11UIResponder", "fatalError"]
+- ["CSo11UIResponder", "getNotificationSettings"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "messaging"]
+- ["CSo11UIResponder", "persistentContainer"]
+- ["CSo11UIResponder", "persistentContainer.storage"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "registerForPushNotifications"]
+- !private ["CSo11UIResponder", "registerForRemoteNotifications"]
+- !private ["CSo11UIResponder", "registerUserNotificationSettings"]
+- ["CSo11UIResponder", "saveContext"]
+- !private ["CSo11UIResponder", "setMinimumBackgroundFetchInterval"]
+- !private ["CSo11UIResponder", "shared"]
+- ["CSo11UIResponder", "textWithButtonAlert"]
+- ["CSo11UIResponder", "tokenRefreshNotification"]
+- ["CSo11UIResponder", "userNotificationCenter"]
+- ["CSo11UIResponder", "window"]
+- ["CSo11UIResponder", ""]
+- !private ["PSo30UIResponderStandardEditActions", "FirebaseApp"]
+- !private ["PSo30UIResponderStandardEditActions", "InstanceID"]
+- !private ["PSo30UIResponderStandardEditActions", "InstanceIDAPNSTokenType"]
+- !private ["PSo30UIResponderStandardEditActions", "JSONSerialization"]
+- !private ["PSo30UIResponderStandardEditActions", "Messaging"]
+- !private ["PSo30UIResponderStandardEditActions", "NSNotification"]
+- !private ["PSo30UIResponderStandardEditActions", "NSPersistentContainer"]
+- !private ["PSo30UIResponderStandardEditActions", "NotificationCenter"]
+- !private ["PSo30UIResponderStandardEditActions", "String"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplication"]
+- !private ["PSo30UIResponderStandardEditActions", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["PSo30UIResponderStandardEditActions", "UIUserNotificationSettings"]
+- !private ["PSo30UIResponderStandardEditActions", "UNUserNotificationCenter"]
+- !private ["PSo30UIResponderStandardEditActions", "UserDefaults"]
+- ["PSo30UIResponderStandardEditActions", "application"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidBecomeActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidEnterBackground"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidFinishLaunching"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "applicationIconBadgeNumber"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationReceivedRemoteMessage"]
+- ["PSo30UIResponderStandardEditActions", "applicationShouldRequestHealthAuthorization"]
+- ["PSo30UIResponderStandardEditActions", "applicationSignificantTimeChange"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillEnterForeground"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillResignActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillTerminate"]
+- ["PSo30UIResponderStandardEditActions", "connectToFcm"]
+- !private ["PSo30UIResponderStandardEditActions", "fatalError"]
+- ["PSo30UIResponderStandardEditActions", "getNotificationSettings"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "messaging"]
+- ["PSo30UIResponderStandardEditActions", "persistentContainer"]
+- ["PSo30UIResponderStandardEditActions", "persistentContainer.storage"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- ["PSo30UIResponderStandardEditActions", "registerForPushNotifications"]
+- !private ["PSo30UIResponderStandardEditActions", "registerForRemoteNotifications"]
+- !private ["PSo30UIResponderStandardEditActions", "registerUserNotificationSettings"]
+- ["PSo30UIResponderStandardEditActions", "saveContext"]
+- !private ["PSo30UIResponderStandardEditActions", "setMinimumBackgroundFetchInterval"]
+- !private ["PSo30UIResponderStandardEditActions", "shared"]
+- ["PSo30UIResponderStandardEditActions", "textWithButtonAlert"]
+- ["PSo30UIResponderStandardEditActions", "tokenRefreshNotification"]
+- ["PSo30UIResponderStandardEditActions", "userNotificationCenter"]
+- ["PSo30UIResponderStandardEditActions", "window"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo26UIUserNotificationSettings", "deinit"]
+- !private ["CSo26UIUserNotificationSettings", "init"]
+- !private ["VSC22UIUserNotificationType", "Element"]
+- !private ["VSC22UIUserNotificationType", "alert"]
+- !private ["VSC22UIUserNotificationType", "badge"]
+- ["VSC22UIUserNotificationType", "deinit"]
+- !private ["VSC22UIUserNotificationType", "sound"]
+- ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["VSC22UNAuthorizationOptions", "Element"]
+- !private ["VSC22UNAuthorizationOptions", "alert"]
+- !private ["VSC22UNAuthorizationOptions", "badge"]
+- ["VSC22UNAuthorizationOptions", "deinit"]
+- !private ["VSC22UNAuthorizationOptions", "sound"]
+- !private ["OSC21UNAuthorizationStatus", "RawValue"]
+- !private ["OSC21UNAuthorizationStatus", "authorized"]
+- !private ["OSC21UNAuthorizationStatus", "deinit"]
+- ["CSo14UNNotification", "deinit"]
+- !private ["CSo14UNNotification", "request"]
+- ["CSo21UNNotificationContent", "deinit"]
+- !private ["CSo21UNNotificationContent", "userInfo"]
+- !private ["VSC33UNNotificationPresentationOptions", "Element"]
+- !private ["VSC33UNNotificationPresentationOptions", "alert"]
+- !private ["VSC33UNNotificationPresentationOptions", "badge"]
+- ["VSC33UNNotificationPresentationOptions", "deinit"]
+- !private ["VSC33UNNotificationPresentationOptions", "sound"]
+- !private ["CSo21UNNotificationRequest", "content"]
+- ["CSo21UNNotificationRequest", "deinit"]
+- ["CSo22UNNotificationResponse", "deinit"]
+- !private ["CSo22UNNotificationResponse", "notification"]
+- !private ["CSo22UNNotificationSettings", "authorizationStatus"]
+- !private ["CSo22UNNotificationSettings", "deinit"]
+- !private ["CSo24UNUserNotificationCenter", "current"]
+- ["CSo24UNUserNotificationCenter", "deinit"]
+- !private ["CSo24UNUserNotificationCenter", "delegate"]
+- !private ["CSo24UNUserNotificationCenter", "getNotificationSettings"]
+- !private ["CSo24UNUserNotificationCenter", "requestAuthorization"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "FirebaseApp"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "InstanceID"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "InstanceIDAPNSTokenType"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "JSONSerialization"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "Messaging"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "NSNotification"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "NSPersistentContainer"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "NotificationCenter"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "String"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "UIApplication"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "UIUserNotificationSettings"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "UNUserNotificationCenter"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "UserDefaults"]
+- ["PSo32UNUserNotificationCenterDelegate", "application"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationDidBecomeActive"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationDidEnterBackground"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationDidFinishLaunching"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationReceivedRemoteMessage"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationSignificantTimeChange"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationWillEnterForeground"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationWillResignActive"]
+- ["PSo32UNUserNotificationCenterDelegate", "applicationWillTerminate"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "connectToFcm"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "fatalError"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "getNotificationSettings"]
+- ["PSo32UNUserNotificationCenterDelegate", "messaging"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "persistentContainer"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "print"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "registerForPushNotifications"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "saveContext"]
+- !private ["PSo32UNUserNotificationCenterDelegate", "tokenRefreshNotification"]
+- ["PSo32UNUserNotificationCenterDelegate", "userNotificationCenter"]
+- ["PSo32UNUserNotificationCenterDelegate", "window"]
+- ["PSo32UNUserNotificationCenterDelegate", ""]
+- !private ["P9Alamofire14URLConvertible", "init"]
+- !private ["Sc", "deinit"]
+- ["CSo12UserDefaults", "deinit"]
+- !private ["CSo12UserDefaults", "set"]
+- !private ["CSo12UserDefaults", "standard"]
+- ["VCSo17JSONSerialization14WritingOptions", "deinit"]
+- !private ["VCSo17JSONSerialization14WritingOptions", "prettyPrinted"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "Name"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "FirebaseApp"]
+- !private ["Ps9_Hashable", "InstanceID"]
+- !private ["Ps9_Hashable", "InstanceIDAPNSTokenType"]
+- !private ["Ps9_Hashable", "InstanceIDTokenRefresh"]
+- !private ["Ps9_Hashable", "JSONSerialization"]
+- !private ["Ps9_Hashable", "Messaging"]
+- !private ["Ps9_Hashable", "NSNotification"]
+- !private ["Ps9_Hashable", "NSPersistentContainer"]
+- !private ["Ps9_Hashable", "Name"]
+- !private ["Ps9_Hashable", "NotificationCenter"]
+- !private ["Ps9_Hashable", "RawValue"]
+- !private ["Ps9_Hashable", "String"]
+- !private ["Ps9_Hashable", "UIApplication"]
+- !private ["Ps9_Hashable", "UIApplicationBackgroundFetchIntervalMinimum"]
+- !private ["Ps9_Hashable", "UIUserNotificationSettings"]
+- !private ["Ps9_Hashable", "UNUserNotificationCenter"]
+- !private ["Ps9_Hashable", "UserDefaults"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addObserver"]
+- !private ["Ps9_Hashable", "appData"]
+- ["Ps9_Hashable", "application"]
+- ["Ps9_Hashable", "applicationDidBecomeActive"]
+- ["Ps9_Hashable", "applicationDidEnterBackground"]
+- ["Ps9_Hashable", "applicationDidFinishLaunching"]
+- ["Ps9_Hashable", "applicationDidReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "applicationIconBadgeNumber"]
+- ["Ps9_Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9_Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9_Hashable", "applicationReceivedRemoteMessage"]
+- ["Ps9_Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9_Hashable", "applicationSignificantTimeChange"]
+- ["Ps9_Hashable", "applicationWillEnterForeground"]
+- ["Ps9_Hashable", "applicationWillResignActive"]
+- ["Ps9_Hashable", "applicationWillTerminate"]
+- !private ["Ps9_Hashable", "authorizationStatus"]
+- !private ["Ps9_Hashable", "authorized"]
+- !private ["Ps9_Hashable", "configure"]
+- !private ["Ps9_Hashable", "connect"]
+- ["Ps9_Hashable", "connectToFcm"]
+- !private ["Ps9_Hashable", "content"]
+- !private ["Ps9_Hashable", "current"]
+- !private ["Ps9_Hashable", "data"]
+- !private ["Ps9_Hashable", "default"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "fatalError"]
+- ["Ps9_Hashable", "getNotificationSettings"]
+- !private ["Ps9_Hashable", "hasChanges"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "instanceID"]
+- !private ["Ps9_Hashable", "loadPersistentStores"]
+- ["Ps9_Hashable", "messaging"]
+- !private ["Ps9_Hashable", "newData"]
+- !private ["Ps9_Hashable", "notification"]
+- ["Ps9_Hashable", "persistentContainer"]
+- ["Ps9_Hashable", "persistentContainer.storage"]
+- !private ["Ps9_Hashable", "print"]
+- ["Ps9_Hashable", "registerForPushNotifications"]
+- !private ["Ps9_Hashable", "registerForRemoteNotifications"]
+- !private ["Ps9_Hashable", "registerUserNotificationSettings"]
+- !private ["Ps9_Hashable", "request"]
+- !private ["Ps9_Hashable", "requestAuthorization"]
+- !private ["Ps9_Hashable", "sandbox"]
+- !private ["Ps9_Hashable", "save"]
+- ["Ps9_Hashable", "saveContext"]
+- !private ["Ps9_Hashable", "set"]
+- !private ["Ps9_Hashable", "setAPNSToken"]
+- !private ["Ps9_Hashable", "setMinimumBackgroundFetchInterval"]
+- !private ["Ps9_Hashable", "shared"]
+- !private ["Ps9_Hashable", "shouldEstablishDirectChannel"]
+- !private ["Ps9_Hashable", "standard"]
+- ["Ps9_Hashable", "textWithButtonAlert"]
+- !private ["Ps9_Hashable", "token"]
+- ["Ps9_Hashable", "tokenRefreshNotification"]
+- !private ["Ps9_Hashable", "userInfo"]
+- ["Ps9_Hashable", "userNotificationCenter"]
+- !private ["Ps9_Hashable", "utf8"]
+- !private ["Ps9_Hashable", "viewContext"]
+- ["Ps9_Hashable", "window"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "InstanceIDTokenRefresh"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps20_SwiftNewtypeWrapper", "InstanceIDTokenRefresh"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C12HouseKeeping11AppDelegate"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "Vs10Dictionary"
+- "Sd"
+- "VE10FoundationSS8Encoding"
+- "Ps9Equatable"
+- "Ps5Error"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "CSo11FirebaseApp"
+- !private "Sf"
+- "Ps8Hashable"
+- "CSo10InstanceID"
+- "OSC23InstanceIDAPNSTokenType"
+- "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "CSo17JSONSerialization"
+- !private "P10SwiftyJSON17JSONSubscriptType"
+- !private "Ps25LosslessStringConvertible"
+- "CSo9Messaging"
+- "PSo17MessagingDelegate"
+- "CSo22MessagingRemoteMessage"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo12NSDictionary"
+- "CSo7NSError"
+- !private "PSo9NSLocking"
+- "CSo22NSManagedObjectContext"
+- !private "PSo16NSMutableCopying"
+- !private "CSo14NSNotification"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "CSo21NSPersistentContainer"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "VCSo14NSNotification4Name"
+- "Os5Never"
+- "CSo18NotificationCenter"
+- !private "Ps9OptionSet"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "V10ObjectiveC8Selector"
+- !private "Ps10SetAlgebra"
+- "Vs12StaticString"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo13UIApplication"
+- "PSo21UIApplicationDelegate"
+- !private "OSC23UIBackgroundFetchResult"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo26UIUserNotificationSettings"
+- "VSC22UIUserNotificationType"
+- "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- "VSC22UNAuthorizationOptions"
+- !private "OSC21UNAuthorizationStatus"
+- "CSo14UNNotification"
+- "CSo21UNNotificationContent"
+- "VSC33UNNotificationPresentationOptions"
+- "CSo21UNNotificationRequest"
+- "CSo22UNNotificationResponse"
+- !private "CSo22UNNotificationSettings"
+- "CSo24UNUserNotificationCenter"
+- "PSo32UNUserNotificationCenterDelegate"
+- !private "P9Alamofire14URLConvertible"
+- !private "Sc"
+- "CSo12UserDefaults"
+- "VCSo17JSONSerialization14WritingOptions"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps20_SwiftNewtypeWrapper"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/Fusuma.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Headers/Fusuma-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/Fusuma/Fusuma.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreLocation.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/SwiftSpinner.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Headers/SwiftSpinner-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/SwiftSpinner/SwiftSpinner.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRCoreSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseAuth/Frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseMessaging/Frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageSwiftNameSupport.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/LIHAlert.swiftmodule/arm.swiftmodule"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-Swift.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Headers/LIHAlert-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/LIHAlert/LIHAlert.framework/Modules/module.modulemap"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/SWActionSheet.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetMultipleStringPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetLocalePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/DistancePickerView.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDistancePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetDatePicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPickerDelegate.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetCustomPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/AbstractActionSheetPicker.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Headers/ActionSheetPicker-3.0-umbrella.h"
+- "/Users/apple-1/Downloads/HouseKeeping/Build/Products/Debug-iphoneos/ActionSheetPicker-3.0/ActionSheetPicker_3_0.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MapKit.swiftmodule"
+interface-hash: "fda6622a8f03db590ca5571b5f383af6"
